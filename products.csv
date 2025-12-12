@@ -1,0 +1,201 @@
+product_id,sku,name,category,price,is_service,tax_rate
+1,SKU-0001,Microphone,Outdoors,5.35,False,0.07
+2,SKU-0002,Air Purifier,Outdoors,22.89,False,0.09
+3,SKU-0003,Phone Case,Electronics,52.5,False,0.05
+4,SKU-0004,External SSD,Home,199.8,False,0.08
+5,SKU-0005,Electric Kettle,Toys,112.27,False,0.09
+6,SKU-0006,Action Figure,Electronics,24.84,False,0.08
+7,SKU-0007,AirTag Holder,Toys,48.15,False,0.07
+8,SKU-0008,Coffee Maker,Fashion,142.56,False,0.08
+9,SKU-0009,Air Purifier,Automotive,122.08,False,0.09
+10,SKU-0010,Science Textbook,Books,66.15,False,0.05
+11,SKU-0011,Personal Shopper,Services,49.0,True,0.0
+12,SKU-0012,Smartwatch,Fashion,16.05,False,0.07
+13,SKU-0013,Annual Service Plan,Services,399.0,True,0.0
+14,SKU-0014,Car Vacuum,Beauty,5.4,False,0.08
+15,SKU-0015,USB-C Cable,Automotive,95.92,False,0.09
+16,SKU-0016,Microphone,Books,121.8,False,0.05
+17,SKU-0017,USB-C Cable,Beauty,37.8,False,0.05
+18,SKU-0018,Desk Lamp,Outdoors,97.37,False,0.07
+19,SKU-0019,Gaming Mouse,Automotive,118.65,False,0.05
+20,SKU-0020,Office Chair,Fashion,103.79,False,0.07
+21,SKU-0021,Car Vacuum,Outdoors,43.05,False,0.05
+22,SKU-0022,LED TV,Automotive,73.5,False,0.05
+23,SKU-0023,Fitness Tracker,Home,12.96,False,0.08
+24,SKU-0024,External SSD,Home,93.45,False,0.05
+25,SKU-0025,Annual Service Plan,Services,49.0,True,0.0
+26,SKU-0026,Smartwatch,Electronics,156.6,False,0.08
+27,SKU-0027,Desk Lamp,Toys,124.2,False,0.08
+28,SKU-0028,Sunscreen,Outdoors,109.08,False,0.08
+29,SKU-0029,Blender,Books,141.75,False,0.05
+30,SKU-0030,Extended Warranty,Services,29.0,True,0.0
+31,SKU-0031,Office Chair,Toys,50.14,False,0.09
+32,SKU-0032,Wi-Fi Extender,Grocery,5.45,False,0.09
+33,SKU-0033,Electric Kettle,Beauty,96.6,False,0.05
+34,SKU-0034,Organic Granola,Electronics,100.58,False,0.07
+35,SKU-0035,Running Shoes,Outdoors,24.61,False,0.07
+36,SKU-0036,Annual Service Plan,Services,49.0,True,0.0
+37,SKU-0037,Smart Speaker,Home,103.79,False,0.07
+38,SKU-0038,Robot Vacuum,Toys,5.35,False,0.07
+39,SKU-0039,Microphone,Books,93.45,False,0.05
+40,SKU-0040,Blender,Books,164.16,False,0.08
+41,SKU-0041,VIP Concierge,Services,149.0,True,0.0
+42,SKU-0042,Wi-Fi Extender,Toys,69.55,False,0.07
+43,SKU-0043,Gaming Mouse,Electronics,46.2,False,0.05
+44,SKU-0044,AirTag Holder,Books,99.19,False,0.09
+45,SKU-0045,Home Setup,Services,299.0,True,0.0
+46,SKU-0046,Bluetooth Tracker,Electronics,118.81,False,0.09
+47,SKU-0047,Mystery Novel,Automotive,138.03,False,0.07
+48,SKU-0048,Phone Case,Toys,105.73,False,0.09
+49,SKU-0049,AirTag Holder,Grocery,107.91,False,0.09
+50,SKU-0050,Rain Jacket,Outdoors,66.49,False,0.09
+51,SKU-0051,Personal Shopper,Services,49.0,True,0.0
+52,SKU-0052,Blender,Books,152.6,False,0.09
+53,SKU-0053,Cold Brew Kit,Automotive,88.56,False,0.08
+54,SKU-0054,Rain Jacket,Beauty,80.85,False,0.05
+55,SKU-0055,Phone Case,Books,102.72,False,0.07
+56,SKU-0056,Phone Case,Grocery,97.65,False,0.05
+57,SKU-0057,Webcam,Fashion,143.85,False,0.05
+58,SKU-0058,Robot Vacuum,Toys,28.35,False,0.05
+59,SKU-0059,Wi-Fi Extender,Home,84.0,False,0.05
+60,SKU-0060,Camping Tent,Outdoors,69.12,False,0.08
+61,SKU-0061,Toy Drone,Toys,81.9,False,0.05
+62,SKU-0062,USB-C Cable,Grocery,29.96,False,0.07
+63,SKU-0063,Personal Shopper,Services,149.0,True,0.0
+64,SKU-0064,Wireless Headphones,Outdoors,105.84,False,0.08
+65,SKU-0065,Electric Kettle,Fashion,37.8,False,0.08
+66,SKU-0066,Fitness Tracker,Grocery,58.86,False,0.09
+67,SKU-0067,Hiking Backpack,Books,57.77,False,0.09
+68,SKU-0068,Desk Lamp,Automotive,89.25,False,0.05
+69,SKU-0069,Wireless Headphones,Automotive,39.9,False,0.05
+70,SKU-0070,Subscription Plus,Services,149.0,True,0.0
+71,SKU-0071,Rain Jacket,Books,146.59,False,0.07
+72,SKU-0072,Coffee Maker,Automotive,108.0,False,0.08
+73,SKU-0073,Webcam,Fashion,73.44,False,0.08
+74,SKU-0074,Express Delivery,Services,199.0,True,0.0
+75,SKU-0075,Running Shoes,Books,43.6,False,0.09
+76,SKU-0076,Mechanical Keyboard,Toys,51.23,False,0.09
+77,SKU-0077,Car Vacuum,Home,5.25,False,0.05
+78,SKU-0078,Portable Charger,Beauty,26.75,False,0.07
+79,SKU-0079,Device Protection,Services,99.0,True,0.0
+80,SKU-0080,Smart Plug,Beauty,71.4,False,0.05
+81,SKU-0081,Device Protection,Services,199.0,True,0.0
+82,SKU-0082,Car Vacuum,Books,98.7,False,0.05
+83,SKU-0083,Board Game,Automotive,78.84,False,0.08
+84,SKU-0084,Extended Warranty,Services,149.0,True,0.0
+85,SKU-0085,Wireless Headphones,Toys,63.13,False,0.07
+86,SKU-0086,Toy Drone,Beauty,107.91,False,0.09
+87,SKU-0087,Science Textbook,Home,54.0,False,0.08
+88,SKU-0088,Running Shoes,Books,131.89,False,0.09
+89,SKU-0089,Premium Support,Services,149.0,True,0.0
+90,SKU-0090,Office Chair,Outdoors,41.42,False,0.09
+91,SKU-0091,Gaming Mouse,Books,93.96,False,0.08
+92,SKU-0092,Smart Plug,Books,148.24,False,0.09
+93,SKU-0093,Fitness Tracker,Beauty,78.11,False,0.07
+94,SKU-0094,Standing Desk,Toys,122.85,False,0.05
+95,SKU-0095,Desk Lamp,Toys,126.0,False,0.05
+96,SKU-0096,Webcam,Grocery,100.28,False,0.09
+97,SKU-0097,Subscription Plus,Services,199.0,True,0.0
+98,SKU-0098,Gaming Mouse,Beauty,68.25,False,0.05
+99,SKU-0099,USB-C Cable,Fashion,77.04,False,0.07
+100,SKU-0100,Home Setup,Services,149.0,True,0.0
+101,SKU-0101,Express Delivery,Services,99.0,True,0.0
+102,SKU-0102,Standing Desk,Electronics,88.2,False,0.05
+103,SKU-0103,Air Purifier,Electronics,31.61,False,0.09
+104,SKU-0104,Portable Charger,Toys,107.0,False,0.07
+105,SKU-0105,Noise Cancelling Earbuds,Toys,84.53,False,0.07
+106,SKU-0106,Dash Cam,Home,16.35,False,0.09
+107,SKU-0107,Smartwatch,Grocery,5.45,False,0.09
+108,SKU-0108,AirTag Holder,Home,52.43,False,0.07
+109,SKU-0109,Microphone,Fashion,57.75,False,0.05
+110,SKU-0110,Wi-Fi Extender,Automotive,70.35,False,0.05
+111,SKU-0111,Gaming Mouse,Outdoors,78.75,False,0.05
+112,SKU-0112,Device Protection,Services,49.0,True,0.0
+113,SKU-0113,Action Figure,Outdoors,28.89,False,0.07
+114,SKU-0114,External SSD,Toys,126.36,False,0.08
+115,SKU-0115,LED TV,Toys,105.0,False,0.05
+116,SKU-0116,Sunscreen,Books,134.07,False,0.09
+117,SKU-0117,Camping Tent,Home,87.74,False,0.07
+118,SKU-0118,Sunscreen,Fashion,83.93,False,0.09
+119,SKU-0119,Coffee Maker,Grocery,55.64,False,0.07
+120,SKU-0120,Premium Support,Services,99.0,True,0.0
+121,SKU-0121,Dash Cam,Beauty,47.96,False,0.09
+122,SKU-0122,Camping Tent,Electronics,99.51,False,0.07
+123,SKU-0123,Router,Outdoors,8.72,False,0.09
+124,SKU-0124,Action Figure,Electronics,83.16,False,0.08
+125,SKU-0125,Fitness Tracker,Home,36.38,False,0.07
+126,SKU-0126,Smart Speaker,Fashion,82.95,False,0.05
+127,SKU-0127,Webcam,Beauty,64.05,False,0.05
+128,SKU-0128,Noise Cancelling Earbuds,Outdoors,120.91,False,0.07
+129,SKU-0129,Rain Jacket,Outdoors,37.06,False,0.09
+130,SKU-0130,Annual Service Plan,Services,399.0,True,0.0
+131,SKU-0131,AirTag Holder,Beauty,68.25,False,0.05
+132,SKU-0132,Annual Service Plan,Services,99.0,True,0.0
+133,SKU-0133,Portable Charger,Grocery,97.2,False,0.08
+134,SKU-0134,Device Protection,Services,199.0,True,0.0
+135,SKU-0135,Extended Warranty,Services,149.0,True,0.0
+136,SKU-0136,Hiking Backpack,Automotive,55.08,False,0.08
+137,SKU-0137,Cold Brew Kit,Automotive,116.64,False,0.08
+138,SKU-0138,Robot Vacuum,Fashion,69.55,False,0.07
+139,SKU-0139,Dash Cam,Grocery,106.92,False,0.08
+140,SKU-0140,Installation,Services,299.0,True,0.0
+141,SKU-0141,Router,Toys,181.65,False,0.05
+142,SKU-0142,Sunscreen,Books,17.44,False,0.09
+143,SKU-0143,Mechanical Keyboard,Home,55.65,False,0.05
+144,SKU-0144,Robot Vacuum,Home,32.4,False,0.08
+145,SKU-0145,Wireless Headphones,Home,144.97,False,0.09
+146,SKU-0146,Organic Granola,Toys,151.2,False,0.08
+147,SKU-0147,Laptop Sleeve,Outdoors,81.9,False,0.05
+148,SKU-0148,Smart Plug,Fashion,92.65,False,0.09
+149,SKU-0149,LED TV,Fashion,52.32,False,0.09
+150,SKU-0150,Router,Outdoors,207.1,False,0.09
+151,SKU-0151,Express Delivery,Services,199.0,True,0.0
+152,SKU-0152,Rain Jacket,Automotive,85.6,False,0.07
+153,SKU-0153,Microphone,Beauty,98.7,False,0.05
+154,SKU-0154,Home Setup,Services,399.0,True,0.0
+155,SKU-0155,Gaming Mouse,Fashion,88.81,False,0.07
+156,SKU-0156,Smart Speaker,Automotive,31.61,False,0.09
+157,SKU-0157,VIP Concierge,Services,299.0,True,0.0
+158,SKU-0158,AirTag Holder,Electronics,37.8,False,0.08
+159,SKU-0159,Fitness Tracker,Fashion,118.81,False,0.09
+160,SKU-0160,LED TV,Outdoors,113.4,False,0.05
+161,SKU-0161,Fitness Tracker,Automotive,75.97,False,0.07
+162,SKU-0162,Microphone,Electronics,81.32,False,0.07
+163,SKU-0163,Bluetooth Tracker,Home,104.76,False,0.08
+164,SKU-0164,Smart Plug,Home,64.05,False,0.05
+165,SKU-0165,Smart Speaker,Grocery,99.19,False,0.09
+166,SKU-0166,Phone Case,Electronics,52.92,False,0.08
+167,SKU-0167,Science Textbook,Home,87.15,False,0.05
+168,SKU-0168,External SSD,Home,21.0,False,0.05
+169,SKU-0169,LED TV,Books,46.2,False,0.05
+170,SKU-0170,Coffee Maker,Toys,153.3,False,0.05
+171,SKU-0171,Smart Plug,Books,136.5,False,0.05
+172,SKU-0172,Portable Charger,Books,103.95,False,0.05
+173,SKU-0173,Fitness Tracker,Outdoors,127.05,False,0.05
+174,SKU-0174,Desk Lamp,Books,23.1,False,0.05
+175,SKU-0175,Smart Speaker,Toys,23.1,False,0.05
+176,SKU-0176,Home Setup,Services,299.0,True,0.0
+177,SKU-0177,Personal Shopper,Services,199.0,True,0.0
+178,SKU-0178,Device Protection,Services,99.0,True,0.0
+179,SKU-0179,Office Chair,Toys,73.83,False,0.07
+180,SKU-0180,LED TV,Electronics,119.88,False,0.08
+181,SKU-0181,Mechanical Keyboard,Beauty,120.91,False,0.07
+182,SKU-0182,Router,Grocery,50.29,False,0.07
+183,SKU-0183,Device Protection,Services,399.0,True,0.0
+184,SKU-0184,Coffee Maker,Books,191.16,False,0.08
+185,SKU-0185,Organic Granola,Outdoors,90.47,False,0.09
+186,SKU-0186,Desk Lamp,Grocery,42.12,False,0.08
+187,SKU-0187,Fitness Tracker,Grocery,102.9,False,0.05
+188,SKU-0188,Wireless Headphones,Outdoors,119.84,False,0.07
+189,SKU-0189,Cold Brew Kit,Outdoors,7.56,False,0.08
+190,SKU-0190,Portable Charger,Outdoors,90.47,False,0.09
+191,SKU-0191,Wireless Headphones,Grocery,117.6,False,0.05
+192,SKU-0192,Annual Service Plan,Services,49.0,True,0.0
+193,SKU-0193,USB-C Cable,Electronics,80.85,False,0.05
+194,SKU-0194,Toy Drone,Beauty,86.67,False,0.07
+195,SKU-0195,Webcam,Outdoors,112.35,False,0.07
+196,SKU-0196,Sunscreen,Fashion,86.67,False,0.07
+197,SKU-0197,Camping Tent,Grocery,74.9,False,0.07
+198,SKU-0198,Science Textbook,Grocery,104.64,False,0.09
+199,SKU-0199,Air Purifier,Home,21.4,False,0.07
+200,SKU-0200,Hiking Backpack,Outdoors,95.04,False,0.08

@@ -1,0 +1,1001 @@
+customer_id,name,email,join_date,loyalty_tier,loyalty_points,city,state,is_active
+1,Chris Brown,chris.brown1@example.com,2024-07-29,Bronze,137,New York,NY,False
+2,Taylor Jackson,taylor.jackson2@fabrikam.net,2025-10-12,Bronze,0,Covington,LA,True
+3,Sydney Smith,sydney.smith3@adventure-works.org,2023-08-06,Bronze,0,Chicago,IL,True
+4,Terry Garcia,terry.garcia4@fabrikam.net,2024-05-22,Bronze,53,Atlanta,GA,False
+5,Jamie Brown,jamie.brown5@example.com,2025-05-28,Bronze,106,San Francisco,CA,True
+6,Quinn Moore,quinn.moore6@example.com,2025-07-04,Silver,795,San Francisco,CA,False
+7,Sydney Lewis,sydney.lewis7@contoso.com,2024-11-14,Silver,806,Phoenix,AZ,True
+8,Taylor Ramirez,taylor.ramirez8@sample.io,2023-10-26,Bronze,170,Seattle,WA,True
+9,Kai Garcia,kai.garcia9@contoso.com,2024-10-09,Silver,464,Atlanta,GA,True
+10,Chris Garcia,chris.garcia10@adventure-works.org,2025-01-12,Bronze,5,Chicago,IL,True
+11,Chris Thompson,chris.thompson11@adventure-works.org,2024-02-17,Gold,2593,Chicago,IL,True
+12,Jamie Gonzalez,jamie.gonzalez12@contoso.com,2024-10-06,Gold,1930,Seattle,WA,True
+13,Pat Hernandez,pat.hernandez13@sample.io,2023-09-24,Gold,2223,Denver,CO,True
+14,Lee Moore,lee.moore14@adventure-works.org,2023-07-19,Gold,2152,New York,NY,True
+15,Cameron Jones,cameron.jones15@adventure-works.org,2025-06-09,Silver,711,Denver,CO,True
+16,Sam Wilson,sam.wilson16@adventure-works.org,2023-10-16,Bronze,105,Seattle,WA,False
+17,Rowan Rodriguez,rowan.rodriguez17@adventure-works.org,2025-04-22,Silver,369,Covington,LA,True
+18,Morgan Martinez,morgan.martinez18@fabrikam.net,2023-05-28,Bronze,131,Austin,TX,True
+19,Lee Rodriguez,lee.rodriguez19@adventure-works.org,2023-02-07,Gold,2962,Austin,TX,True
+20,Sydney Miller,sydney.miller20@sample.io,2025-01-16,Bronze,88,Atlanta,GA,False
+21,Rowan Robinson,rowan.robinson21@example.com,2024-02-18,Bronze,222,Phoenix,AZ,False
+22,Terry Martinez,terry.martinez22@sample.io,2024-08-06,Gold,2991,Covington,LA,False
+23,Taylor White,taylor.white23@fabrikam.net,2022-12-18,Silver,835,Seattle,WA,True
+24,Drew Taylor,drew.taylor24@adventure-works.org,2024-10-05,Gold,3155,San Francisco,CA,True
+25,Pat Miller,pat.miller25@contoso.com,2023-11-09,Bronze,99,San Francisco,CA,True
+26,Jamie Smith,jamie.smith26@adventure-works.org,2024-08-28,Silver,583,Miami,FL,True
+27,Pat Lee,pat.lee27@example.com,2025-07-27,Gold,2694,Chicago,IL,True
+28,Sam Thomas,sam.thomas28@sample.io,2025-03-17,Silver,511,Miami,FL,False
+29,Skyler Thomas,skyler.thomas29@sample.io,2023-09-01,Bronze,237,Denver,CO,True
+30,Quinn Ramirez,quinn.ramirez30@example.com,2025-08-10,Bronze,210,Seattle,WA,True
+31,Jess Brown,jess.brown31@sample.io,2024-11-18,Bronze,190,Chicago,IL,True
+32,Jess Robinson,jess.robinson32@example.com,2025-05-26,Bronze,199,Denver,CO,False
+33,Robin Smith,robin.smith33@example.com,2025-01-06,Bronze,0,Chicago,IL,False
+34,Riley Gonzalez,riley.gonzalez34@example.com,2024-06-17,Gold,2686,San Francisco,CA,True
+35,Elliot Wilson,elliot.wilson35@adventure-works.org,2025-01-29,Bronze,156,Denver,CO,True
+36,Jordan White,jordan.white36@contoso.com,2025-09-01,Silver,702,Covington,LA,True
+37,Jess Taylor,jess.taylor37@sample.io,2023-02-06,Bronze,202,Covington,LA,True
+38,Cameron Gonzalez,cameron.gonzalez38@example.com,2024-07-26,Silver,971,Phoenix,AZ,True
+39,Taylor Wilson,taylor.wilson39@adventure-works.org,2023-01-07,Bronze,139,Phoenix,AZ,True
+40,Drew Gonzalez,drew.gonzalez40@sample.io,2023-05-21,Bronze,298,New York,NY,False
+41,Taylor Smith,taylor.smith41@fabrikam.net,2025-05-22,Bronze,168,Phoenix,AZ,False
+42,Erin Williams,erin.williams42@sample.io,2024-05-08,Bronze,226,Atlanta,GA,False
+43,Pat Martinez,pat.martinez43@adventure-works.org,2025-11-26,Silver,0,Miami,FL,True
+44,Erin Jones,erin.jones44@contoso.com,2025-05-07,Silver,366,Seattle,WA,True
+45,Elliot Martin,elliot.martin45@sample.io,2024-10-22,Silver,814,Atlanta,GA,True
+46,Jess Johnson,jess.johnson46@example.com,2024-05-25,Bronze,55,San Francisco,CA,True
+47,Casey Lee,casey.lee47@contoso.com,2023-06-22,Silver,562,Austin,TX,True
+48,Erin Thompson,erin.thompson48@sample.io,2025-09-30,Gold,2548,Miami,FL,True
+49,Casey Wilson,casey.wilson49@sample.io,2024-03-21,Bronze,394,Covington,LA,True
+50,Kai Miller,kai.miller50@sample.io,2023-12-19,Silver,272,Seattle,WA,False
+51,Parker Martin,parker.martin51@sample.io,2025-01-14,Platinum,7154,Chicago,IL,True
+52,Lee Robinson,lee.robinson52@contoso.com,2024-07-22,Bronze,0,San Francisco,CA,False
+53,Morgan Gonzalez,morgan.gonzalez53@example.com,2024-09-13,Bronze,230,Denver,CO,False
+54,Jess Davis,jess.davis54@sample.io,2024-11-12,Bronze,104,Covington,LA,True
+55,Taylor Harris,taylor.harris55@contoso.com,2023-02-03,Bronze,273,Atlanta,GA,False
+56,Morgan Lewis,morgan.lewis56@contoso.com,2024-06-17,Bronze,135,Austin,TX,True
+57,Kai White,kai.white57@contoso.com,2023-01-30,Bronze,202,San Francisco,CA,True
+58,Parker Smith,parker.smith58@adventure-works.org,2024-11-04,Bronze,111,Miami,FL,True
+59,Sam Robinson,sam.robinson59@contoso.com,2024-03-10,Silver,1056,Phoenix,AZ,True
+60,Sam Wilson,sam.wilson60@contoso.com,2024-04-16,Silver,1054,San Francisco,CA,True
+61,Sam Gonzalez,sam.gonzalez61@sample.io,2024-04-05,Bronze,192,Phoenix,AZ,True
+62,Terry Jackson,terry.jackson62@adventure-works.org,2023-05-05,Bronze,76,Atlanta,GA,True
+63,Rowan Thomas,rowan.thomas63@sample.io,2024-05-10,Bronze,89,Seattle,WA,False
+64,Shawn Davis,shawn.davis64@contoso.com,2024-10-31,Bronze,82,Chicago,IL,True
+65,Reese Martin,reese.martin65@example.com,2023-08-17,Gold,1367,Denver,CO,True
+66,Logan Davis,logan.davis66@sample.io,2025-05-08,Silver,381,Covington,LA,True
+67,Terry Thompson,terry.thompson67@adventure-works.org,2025-09-01,Silver,732,Denver,CO,True
+68,Quinn Perez,quinn.perez68@adventure-works.org,2024-03-03,Platinum,5621,Miami,FL,True
+69,Sydney Clark,sydney.clark69@adventure-works.org,2023-06-13,Gold,2463,San Francisco,CA,True
+70,Cameron Clark,cameron.clark70@contoso.com,2023-03-26,Silver,259,Miami,FL,True
+71,Taylor Thompson,taylor.thompson71@contoso.com,2024-06-04,Bronze,182,Chicago,IL,True
+72,Logan Thompson,logan.thompson72@sample.io,2025-08-03,Bronze,124,Chicago,IL,True
+73,Quinn Wilson,quinn.wilson73@example.com,2023-08-05,Bronze,179,Chicago,IL,True
+74,Erin Harris,erin.harris74@adventure-works.org,2023-04-11,Bronze,0,San Francisco,CA,True
+75,Shawn Gonzalez,shawn.gonzalez75@fabrikam.net,2024-09-17,Bronze,133,Miami,FL,True
+76,Sam Perez,sam.perez76@fabrikam.net,2023-04-30,Gold,3412,Austin,TX,False
+77,Sawyer Smith,sawyer.smith77@fabrikam.net,2025-10-18,Bronze,0,Phoenix,AZ,True
+78,Drew Gonzalez,drew.gonzalez78@contoso.com,2023-05-26,Bronze,237,Chicago,IL,False
+79,Logan Rodriguez,logan.rodriguez79@fabrikam.net,2025-06-28,Bronze,149,New York,NY,False
+80,Cameron Lee,cameron.lee80@example.com,2025-10-10,Gold,2238,Covington,LA,True
+81,Alex Martin,alex.martin81@sample.io,2025-03-29,Bronze,332,Chicago,IL,True
+82,Drew Harris,drew.harris82@contoso.com,2025-04-22,Silver,1079,Austin,TX,True
+83,Elliot Brown,elliot.brown83@adventure-works.org,2024-03-14,Silver,843,Covington,LA,False
+84,Avery Williams,avery.williams84@adventure-works.org,2025-05-18,Silver,441,Chicago,IL,True
+85,Sam Martin,sam.martin85@example.com,2025-09-19,Bronze,63,Phoenix,AZ,True
+86,Jamie Smith,jamie.smith86@fabrikam.net,2025-05-10,Bronze,191,Denver,CO,True
+87,Erin Clark,erin.clark87@fabrikam.net,2023-07-05,Bronze,6,Austin,TX,True
+88,Sawyer Harris,sawyer.harris88@fabrikam.net,2023-07-04,Gold,2342,Denver,CO,True
+89,Jamie Ramirez,jamie.ramirez89@sample.io,2024-05-20,Gold,2534,Seattle,WA,True
+90,Logan Hernandez,logan.hernandez90@example.com,2024-02-16,Bronze,261,Denver,CO,True
+91,Terry Rodriguez,terry.rodriguez91@contoso.com,2024-05-26,Silver,405,New York,NY,True
+92,Parker Thomas,parker.thomas92@adventure-works.org,2023-04-12,Silver,579,Chicago,IL,True
+93,Terry Smith,terry.smith93@example.com,2024-09-15,Bronze,156,New York,NY,True
+94,Sawyer Taylor,sawyer.taylor94@contoso.com,2024-02-04,Bronze,297,San Francisco,CA,True
+95,Elliot Rodriguez,elliot.rodriguez95@sample.io,2024-11-13,Bronze,139,Seattle,WA,True
+96,Avery Miller,avery.miller96@fabrikam.net,2023-01-03,Silver,0,New York,NY,False
+97,Robin Miller,robin.miller97@contoso.com,2023-12-04,Bronze,273,Chicago,IL,True
+98,Jordan Moore,jordan.moore98@contoso.com,2023-03-13,Bronze,160,Austin,TX,True
+99,Elliot Thomas,elliot.thomas99@fabrikam.net,2024-01-15,Bronze,375,Denver,CO,True
+100,Robin Williams,robin.williams100@fabrikam.net,2025-07-14,Silver,826,Denver,CO,True
+101,Casey Jones,casey.jones101@adventure-works.org,2025-06-21,Platinum,7876,New York,NY,True
+102,Terry Martin,terry.martin102@sample.io,2023-10-25,Bronze,265,Miami,FL,True
+103,Jess Jackson,jess.jackson103@fabrikam.net,2025-08-11,Silver,554,New York,NY,True
+104,Avery Rodriguez,avery.rodriguez104@example.com,2024-08-08,Bronze,0,Austin,TX,True
+105,Alex Wilson,alex.wilson105@fabrikam.net,2023-04-25,Bronze,168,Phoenix,AZ,True
+106,Quinn Williams,quinn.williams106@sample.io,2024-11-02,Bronze,305,New York,NY,True
+107,Chris Jones,chris.jones107@contoso.com,2025-07-19,Bronze,185,Austin,TX,False
+108,Elliot Anderson,elliot.anderson108@example.com,2024-03-30,Silver,211,Denver,CO,False
+109,Rowan Moore,rowan.moore109@fabrikam.net,2025-07-01,Silver,975,Denver,CO,True
+110,Alex Williams,alex.williams110@sample.io,2025-10-31,Platinum,4435,Phoenix,AZ,True
+111,Drew Jackson,drew.jackson111@example.com,2023-04-24,Bronze,74,Austin,TX,False
+112,Parker Lee,parker.lee112@fabrikam.net,2023-04-25,Bronze,178,Seattle,WA,True
+113,Sam Brown,sam.brown113@sample.io,2023-08-22,Silver,428,Atlanta,GA,False
+114,Sawyer Johnson,sawyer.johnson114@fabrikam.net,2024-03-08,Bronze,384,Seattle,WA,True
+115,Shawn Gonzalez,shawn.gonzalez115@adventure-works.org,2023-05-11,Bronze,186,Covington,LA,False
+116,Chris Anderson,chris.anderson116@example.com,2024-06-14,Bronze,237,Chicago,IL,False
+117,Quinn Lewis,quinn.lewis117@fabrikam.net,2025-10-14,Platinum,5140,Seattle,WA,True
+118,Sawyer Smith,sawyer.smith118@adventure-works.org,2025-06-05,Bronze,103,San Francisco,CA,False
+119,Morgan Anderson,morgan.anderson119@example.com,2023-02-26,Gold,2174,Austin,TX,True
+120,Reese Thomas,reese.thomas120@sample.io,2025-02-19,Bronze,300,Denver,CO,False
+121,Rowan White,rowan.white121@sample.io,2024-05-26,Silver,766,Seattle,WA,True
+122,Drew Clark,drew.clark122@example.com,2024-04-10,Gold,1922,New York,NY,True
+123,Sam Thomas,sam.thomas123@sample.io,2023-03-27,Bronze,31,Denver,CO,True
+124,Jamie Ramirez,jamie.ramirez124@sample.io,2023-10-20,Bronze,109,Chicago,IL,False
+125,Jordan Hernandez,jordan.hernandez125@fabrikam.net,2023-10-14,Platinum,6573,San Francisco,CA,True
+126,Jordan Jones,jordan.jones126@adventure-works.org,2024-02-02,Gold,1378,Phoenix,AZ,False
+127,Quinn Brown,quinn.brown127@adventure-works.org,2025-11-11,Silver,230,Denver,CO,True
+128,Reese Sanchez,reese.sanchez128@contoso.com,2023-09-20,Silver,834,Atlanta,GA,False
+129,Jess Perez,jess.perez129@adventure-works.org,2024-03-04,Silver,863,San Francisco,CA,True
+130,Sydney Williams,sydney.williams130@sample.io,2024-09-03,Silver,374,New York,NY,True
+131,Morgan Harris,morgan.harris131@example.com,2025-01-06,Silver,675,Denver,CO,True
+132,Elliot Lopez,elliot.lopez132@contoso.com,2025-02-17,Bronze,132,San Francisco,CA,True
+133,Sam Sanchez,sam.sanchez133@sample.io,2024-12-19,Bronze,245,Austin,TX,True
+134,Skyler Jones,skyler.jones134@sample.io,2024-07-10,Bronze,49,Denver,CO,True
+135,Erin Sanchez,erin.sanchez135@fabrikam.net,2025-01-23,Bronze,429,New York,NY,True
+136,Parker Thompson,parker.thompson136@contoso.com,2024-04-03,Bronze,49,Denver,CO,True
+137,Reese Brown,reese.brown137@sample.io,2023-12-08,Silver,850,San Francisco,CA,False
+138,Sam Gonzalez,sam.gonzalez138@contoso.com,2025-09-03,Gold,2469,Covington,LA,True
+139,Robin Lewis,robin.lewis139@contoso.com,2023-12-22,Bronze,177,Chicago,IL,False
+140,Shawn Perez,shawn.perez140@sample.io,2025-09-23,Bronze,220,Seattle,WA,True
+141,Skyler Lopez,skyler.lopez141@sample.io,2024-04-17,Bronze,92,Seattle,WA,False
+142,Erin Lopez,erin.lopez142@adventure-works.org,2024-06-02,Gold,2771,Miami,FL,True
+143,Robin Thomas,robin.thomas143@contoso.com,2025-04-21,Bronze,299,Atlanta,GA,True
+144,Sam White,sam.white144@fabrikam.net,2023-11-24,Bronze,226,Miami,FL,True
+145,Drew Moore,drew.moore145@example.com,2023-11-19,Silver,413,Denver,CO,False
+146,Kai Brown,kai.brown146@sample.io,2025-10-22,Silver,248,Denver,CO,False
+147,Jamie Robinson,jamie.robinson147@adventure-works.org,2025-08-05,Silver,145,Chicago,IL,True
+148,Morgan Jones,morgan.jones148@example.com,2024-03-29,Platinum,6518,Covington,LA,True
+149,Cameron Lewis,cameron.lewis149@adventure-works.org,2023-10-09,Bronze,71,Austin,TX,False
+150,Parker Jackson,parker.jackson150@sample.io,2025-05-24,Gold,1342,San Francisco,CA,True
+151,Drew Johnson,drew.johnson151@contoso.com,2023-06-18,Bronze,158,Chicago,IL,False
+152,Kai Moore,kai.moore152@contoso.com,2023-09-19,Bronze,244,Covington,LA,False
+153,Jess Clark,jess.clark153@fabrikam.net,2024-10-04,Silver,548,Seattle,WA,True
+154,Cameron Jones,cameron.jones154@adventure-works.org,2025-07-25,Gold,2404,Chicago,IL,True
+155,Skyler Miller,skyler.miller155@sample.io,2025-02-13,Silver,400,Atlanta,GA,False
+156,Casey Moore,casey.moore156@contoso.com,2025-05-01,Silver,462,Austin,TX,True
+157,Alex Lopez,alex.lopez157@sample.io,2024-02-18,Bronze,144,Phoenix,AZ,True
+158,Morgan White,morgan.white158@example.com,2023-06-08,Silver,755,Denver,CO,True
+159,Morgan Anderson,morgan.anderson159@adventure-works.org,2025-09-15,Silver,969,Chicago,IL,True
+160,Chris Smith,chris.smith160@example.com,2023-09-12,Bronze,70,Denver,CO,True
+161,Pat Robinson,pat.robinson161@fabrikam.net,2025-06-30,Bronze,180,Seattle,WA,True
+162,Skyler Moore,skyler.moore162@contoso.com,2022-12-22,Bronze,191,San Francisco,CA,True
+163,Parker Brown,parker.brown163@example.com,2024-09-28,Bronze,228,Miami,FL,False
+164,Logan Wilson,logan.wilson164@example.com,2023-07-22,Bronze,83,Atlanta,GA,True
+165,Casey Perez,casey.perez165@fabrikam.net,2025-06-09,Gold,2800,Seattle,WA,True
+166,Terry Jones,terry.jones166@adventure-works.org,2024-02-06,Silver,674,Covington,LA,True
+167,Jess Perez,jess.perez167@fabrikam.net,2024-05-02,Silver,365,Covington,LA,True
+168,Sam Thomas,sam.thomas168@sample.io,2023-12-26,Gold,3343,Seattle,WA,True
+169,Shawn Rodriguez,shawn.rodriguez169@adventure-works.org,2023-07-18,Gold,3958,Chicago,IL,True
+170,Chris Moore,chris.moore170@example.com,2024-06-13,Bronze,120,Phoenix,AZ,True
+171,Shawn Martinez,shawn.martinez171@contoso.com,2025-11-30,Bronze,240,Atlanta,GA,True
+172,Lee Lee,lee.lee172@example.com,2022-12-22,Bronze,264,Seattle,WA,True
+173,Jamie Garcia,jamie.garcia173@contoso.com,2024-02-17,Silver,484,New York,NY,True
+174,Riley Harris,riley.harris174@adventure-works.org,2025-06-28,Bronze,132,Covington,LA,True
+175,Reese Martin,reese.martin175@fabrikam.net,2024-06-01,Bronze,58,San Francisco,CA,True
+176,Sam Perez,sam.perez176@adventure-works.org,2022-12-29,Silver,578,Denver,CO,True
+177,Logan Martin,logan.martin177@example.com,2024-10-20,Bronze,163,Covington,LA,True
+178,Jamie Brown,jamie.brown178@example.com,2023-07-15,Bronze,202,Denver,CO,True
+179,Pat Davis,pat.davis179@adventure-works.org,2023-12-18,Bronze,168,Miami,FL,True
+180,Taylor Ramirez,taylor.ramirez180@contoso.com,2023-07-17,Silver,532,Phoenix,AZ,True
+181,Parker Martinez,parker.martinez181@example.com,2025-10-31,Platinum,7717,San Francisco,CA,True
+182,Pat Robinson,pat.robinson182@contoso.com,2023-07-02,Gold,4213,Seattle,WA,True
+183,Skyler Gonzalez,skyler.gonzalez183@adventure-works.org,2023-09-24,Gold,2485,Seattle,WA,True
+184,Taylor Taylor,taylor.taylor184@example.com,2023-02-02,Bronze,79,Miami,FL,False
+185,Kai White,kai.white185@sample.io,2025-05-16,Bronze,194,Chicago,IL,False
+186,Chris Williams,chris.williams186@sample.io,2023-05-07,Silver,985,Denver,CO,True
+187,Quinn Perez,quinn.perez187@adventure-works.org,2024-02-20,Gold,2180,Phoenix,AZ,True
+188,Quinn Lee,quinn.lee188@contoso.com,2025-08-19,Bronze,108,New York,NY,True
+189,Quinn Anderson,quinn.anderson189@example.com,2023-11-18,Gold,3916,Covington,LA,False
+190,Sydney Martin,sydney.martin190@adventure-works.org,2023-05-10,Silver,877,San Francisco,CA,False
+191,Lee Lewis,lee.lewis191@example.com,2024-11-22,Bronze,93,Denver,CO,True
+192,Morgan Sanchez,morgan.sanchez192@contoso.com,2023-02-13,Silver,626,Seattle,WA,True
+193,Pat Anderson,pat.anderson193@fabrikam.net,2023-01-07,Silver,159,Miami,FL,True
+194,Shawn Hernandez,shawn.hernandez194@adventure-works.org,2024-01-27,Bronze,318,Covington,LA,True
+195,Sam Gonzalez,sam.gonzalez195@contoso.com,2025-02-08,Bronze,102,New York,NY,True
+196,Chris Thompson,chris.thompson196@fabrikam.net,2025-06-22,Bronze,122,Austin,TX,True
+197,Terry Hernandez,terry.hernandez197@sample.io,2025-06-04,Silver,347,Miami,FL,True
+198,Riley Miller,riley.miller198@contoso.com,2024-11-14,Bronze,193,Denver,CO,True
+199,Taylor Martinez,taylor.martinez199@example.com,2022-12-30,Bronze,61,Miami,FL,True
+200,Logan Jones,logan.jones200@sample.io,2025-01-07,Silver,1037,Austin,TX,True
+201,Kai Perez,kai.perez201@sample.io,2024-05-08,Silver,646,Denver,CO,True
+202,Terry Sanchez,terry.sanchez202@fabrikam.net,2023-11-20,Silver,385,Chicago,IL,True
+203,Quinn Anderson,quinn.anderson203@contoso.com,2023-02-17,Bronze,330,San Francisco,CA,False
+204,Casey Ramirez,casey.ramirez204@contoso.com,2023-04-03,Gold,2189,Covington,LA,True
+205,Morgan Thompson,morgan.thompson205@adventure-works.org,2024-05-08,Bronze,208,Seattle,WA,True
+206,Robin Wilson,robin.wilson206@example.com,2023-06-03,Gold,3238,Chicago,IL,False
+207,Parker Johnson,parker.johnson207@fabrikam.net,2023-11-08,Bronze,246,Miami,FL,True
+208,Morgan Clark,morgan.clark208@contoso.com,2025-03-06,Bronze,146,Austin,TX,False
+209,Reese Thompson,reese.thompson209@sample.io,2023-06-08,Silver,648,Denver,CO,True
+210,Casey Moore,casey.moore210@adventure-works.org,2023-07-30,Bronze,139,Miami,FL,True
+211,Elliot Brown,elliot.brown211@example.com,2023-08-06,Silver,522,Chicago,IL,False
+212,Reese Martin,reese.martin212@adventure-works.org,2023-01-22,Silver,524,Covington,LA,True
+213,Elliot Wilson,elliot.wilson213@example.com,2023-12-21,Bronze,22,Phoenix,AZ,True
+214,Kai Williams,kai.williams214@adventure-works.org,2023-02-07,Silver,821,Miami,FL,True
+215,Alex Gonzalez,alex.gonzalez215@fabrikam.net,2023-10-12,Platinum,5993,Covington,LA,True
+216,Kai Davis,kai.davis216@example.com,2024-02-01,Bronze,168,Phoenix,AZ,True
+217,Jamie Clark,jamie.clark217@sample.io,2023-04-07,Silver,640,Denver,CO,True
+218,Quinn Johnson,quinn.johnson218@contoso.com,2025-09-14,Silver,499,Chicago,IL,False
+219,Jamie Robinson,jamie.robinson219@contoso.com,2023-09-19,Platinum,4895,Miami,FL,True
+220,Avery Martinez,avery.martinez220@contoso.com,2024-02-02,Bronze,129,Covington,LA,False
+221,Parker Lewis,parker.lewis221@fabrikam.net,2023-10-13,Bronze,209,Denver,CO,True
+222,Terry Taylor,terry.taylor222@contoso.com,2023-07-27,Bronze,291,Seattle,WA,True
+223,Robin Garcia,robin.garcia223@adventure-works.org,2024-02-24,Bronze,110,New York,NY,True
+224,Pat Wilson,pat.wilson224@sample.io,2023-12-24,Bronze,223,Denver,CO,True
+225,Kai Martin,kai.martin225@fabrikam.net,2025-08-17,Bronze,88,New York,NY,False
+226,Sam Garcia,sam.garcia226@example.com,2023-06-29,Bronze,77,Austin,TX,True
+227,Shawn Lee,shawn.lee227@contoso.com,2023-10-20,Gold,2952,Atlanta,GA,True
+228,Kai Lopez,kai.lopez228@fabrikam.net,2025-03-06,Bronze,161,Seattle,WA,True
+229,Chris Rodriguez,chris.rodriguez229@sample.io,2025-10-20,Silver,303,Seattle,WA,True
+230,Drew Harris,drew.harris230@contoso.com,2024-09-29,Platinum,6008,Denver,CO,True
+231,Reese Miller,reese.miller231@example.com,2025-07-14,Bronze,237,Austin,TX,True
+232,Sam Ramirez,sam.ramirez232@contoso.com,2025-08-02,Bronze,85,Atlanta,GA,True
+233,Elliot Ramirez,elliot.ramirez233@sample.io,2023-12-03,Bronze,198,Austin,TX,True
+234,Terry Thomas,terry.thomas234@example.com,2023-11-18,Bronze,196,Atlanta,GA,False
+235,Casey Martin,casey.martin235@example.com,2024-03-19,Bronze,126,Seattle,WA,True
+236,Parker Clark,parker.clark236@adventure-works.org,2025-03-31,Platinum,4324,Seattle,WA,True
+237,Quinn Anderson,quinn.anderson237@adventure-works.org,2025-03-25,Gold,2716,Atlanta,GA,True
+238,Casey Wilson,casey.wilson238@adventure-works.org,2025-04-02,Bronze,9,Covington,LA,True
+239,Riley Hernandez,riley.hernandez239@sample.io,2023-01-15,Gold,2844,Atlanta,GA,True
+240,Sawyer Rodriguez,sawyer.rodriguez240@sample.io,2022-12-16,Bronze,87,New York,NY,True
+241,Skyler Jackson,skyler.jackson241@sample.io,2024-01-21,Gold,1123,Austin,TX,True
+242,Jordan Lee,jordan.lee242@adventure-works.org,2024-10-07,Silver,381,New York,NY,True
+243,Chris Smith,chris.smith243@fabrikam.net,2024-04-28,Silver,527,Miami,FL,False
+244,Logan Martinez,logan.martinez244@fabrikam.net,2025-08-12,Bronze,220,Seattle,WA,True
+245,Quinn Miller,quinn.miller245@contoso.com,2025-02-21,Bronze,117,Phoenix,AZ,False
+246,Logan Jones,logan.jones246@contoso.com,2025-05-09,Bronze,0,Miami,FL,True
+247,Drew Anderson,drew.anderson247@sample.io,2025-05-28,Bronze,338,Austin,TX,True
+248,Jess Lewis,jess.lewis248@sample.io,2024-03-12,Bronze,82,Atlanta,GA,True
+249,Rowan Anderson,rowan.anderson249@fabrikam.net,2023-02-28,Bronze,261,New York,NY,False
+250,Avery Jackson,avery.jackson250@contoso.com,2025-08-31,Bronze,109,Covington,LA,True
+251,Robin Lee,robin.lee251@fabrikam.net,2025-11-26,Gold,998,New York,NY,True
+252,Shawn Gonzalez,shawn.gonzalez252@contoso.com,2023-09-14,Bronze,237,Covington,LA,True
+253,Kai Moore,kai.moore253@contoso.com,2023-10-13,Bronze,157,Seattle,WA,False
+254,Sam Martin,sam.martin254@example.com,2025-05-28,Bronze,69,Austin,TX,False
+255,Jamie Moore,jamie.moore255@contoso.com,2024-10-31,Silver,529,Austin,TX,True
+256,Pat Hernandez,pat.hernandez256@fabrikam.net,2023-05-22,Bronze,166,Miami,FL,False
+257,Casey Hernandez,casey.hernandez257@adventure-works.org,2025-01-14,Bronze,6,Atlanta,GA,True
+258,Rowan Clark,rowan.clark258@adventure-works.org,2023-03-15,Silver,214,Miami,FL,True
+259,Robin Smith,robin.smith259@contoso.com,2025-05-02,Platinum,3684,Atlanta,GA,True
+260,Pat Lee,pat.lee260@example.com,2023-04-16,Bronze,60,Phoenix,AZ,True
+261,Shawn Jackson,shawn.jackson261@adventure-works.org,2025-08-29,Silver,802,Chicago,IL,True
+262,Robin Gonzalez,robin.gonzalez262@sample.io,2025-10-09,Silver,970,Chicago,IL,True
+263,Avery Smith,avery.smith263@fabrikam.net,2023-08-08,Bronze,112,Atlanta,GA,False
+264,Reese Ramirez,reese.ramirez264@example.com,2023-01-15,Bronze,54,Austin,TX,True
+265,Sam Thomas,sam.thomas265@adventure-works.org,2024-03-10,Platinum,4207,San Francisco,CA,True
+266,Sam Harris,sam.harris266@contoso.com,2023-03-27,Bronze,180,Phoenix,AZ,True
+267,Sawyer Martinez,sawyer.martinez267@sample.io,2024-04-30,Silver,472,New York,NY,True
+268,Sawyer Robinson,sawyer.robinson268@contoso.com,2025-04-07,Silver,276,New York,NY,True
+269,Erin Gonzalez,erin.gonzalez269@contoso.com,2024-04-27,Bronze,188,Austin,TX,False
+270,Chris Rodriguez,chris.rodriguez270@fabrikam.net,2024-10-25,Gold,2410,Chicago,IL,True
+271,Sawyer Thompson,sawyer.thompson271@contoso.com,2025-05-03,Silver,408,Austin,TX,True
+272,Rowan Davis,rowan.davis272@sample.io,2025-05-21,Bronze,111,Covington,LA,True
+273,Morgan Perez,morgan.perez273@sample.io,2025-01-23,Bronze,338,Covington,LA,True
+274,Avery Harris,avery.harris274@contoso.com,2024-05-07,Silver,355,Atlanta,GA,False
+275,Taylor Lee,taylor.lee275@adventure-works.org,2022-12-13,Silver,648,Chicago,IL,False
+276,Parker Lewis,parker.lewis276@sample.io,2023-09-21,Silver,533,Covington,LA,True
+277,Lee Ramirez,lee.ramirez277@contoso.com,2025-11-24,Bronze,0,Covington,LA,True
+278,Quinn Lee,quinn.lee278@adventure-works.org,2023-03-07,Gold,1394,Miami,FL,True
+279,Rowan Anderson,rowan.anderson279@contoso.com,2025-04-26,Bronze,132,Chicago,IL,True
+280,Alex White,alex.white280@contoso.com,2024-11-12,Bronze,6,New York,NY,False
+281,Erin Gonzalez,erin.gonzalez281@fabrikam.net,2024-02-10,Bronze,118,Miami,FL,True
+282,Jamie Robinson,jamie.robinson282@sample.io,2024-06-26,Bronze,94,Covington,LA,True
+283,Drew Hernandez,drew.hernandez283@contoso.com,2025-11-19,Bronze,103,Phoenix,AZ,True
+284,Quinn Martinez,quinn.martinez284@sample.io,2023-02-17,Gold,2953,San Francisco,CA,False
+285,Shawn Martinez,shawn.martinez285@example.com,2023-11-21,Silver,630,New York,NY,True
+286,Lee Martin,lee.martin286@contoso.com,2023-04-23,Silver,757,San Francisco,CA,False
+287,Robin Miller,robin.miller287@sample.io,2025-06-28,Bronze,56,Phoenix,AZ,False
+288,Morgan Johnson,morgan.johnson288@adventure-works.org,2024-10-24,Silver,549,Miami,FL,True
+289,Jamie Ramirez,jamie.ramirez289@adventure-works.org,2025-04-18,Silver,528,Denver,CO,False
+290,Quinn Sanchez,quinn.sanchez290@example.com,2025-03-17,Bronze,36,Denver,CO,True
+291,Jordan Moore,jordan.moore291@fabrikam.net,2025-10-29,Bronze,217,New York,NY,True
+292,Jordan Wilson,jordan.wilson292@contoso.com,2025-08-11,Gold,1289,Seattle,WA,True
+293,Reese Johnson,reese.johnson293@contoso.com,2024-12-09,Silver,682,San Francisco,CA,True
+294,Parker Lopez,parker.lopez294@fabrikam.net,2023-10-31,Bronze,0,Denver,CO,True
+295,Sam Ramirez,sam.ramirez295@adventure-works.org,2023-12-31,Bronze,249,Austin,TX,True
+296,Cameron Clark,cameron.clark296@example.com,2024-04-10,Bronze,145,Covington,LA,True
+297,Parker Moore,parker.moore297@fabrikam.net,2024-07-24,Bronze,186,Chicago,IL,False
+298,Shawn Brown,shawn.brown298@example.com,2025-11-10,Bronze,203,San Francisco,CA,True
+299,Sydney Johnson,sydney.johnson299@fabrikam.net,2025-09-04,Bronze,253,Phoenix,AZ,True
+300,Shawn Ramirez,shawn.ramirez300@example.com,2023-02-15,Platinum,6442,Austin,TX,True
+301,Lee Jackson,lee.jackson301@contoso.com,2024-02-25,Bronze,357,Phoenix,AZ,True
+302,Parker Martinez,parker.martinez302@contoso.com,2024-12-19,Silver,0,Covington,LA,True
+303,Reese Johnson,reese.johnson303@contoso.com,2023-01-03,Bronze,100,San Francisco,CA,True
+304,Shawn Moore,shawn.moore304@fabrikam.net,2024-09-07,Bronze,178,Chicago,IL,True
+305,Terry Anderson,terry.anderson305@example.com,2023-08-20,Platinum,5246,Miami,FL,True
+306,Avery Hernandez,avery.hernandez306@example.com,2023-11-14,Bronze,131,Denver,CO,True
+307,Avery Johnson,avery.johnson307@contoso.com,2025-09-23,Gold,3013,San Francisco,CA,True
+308,Sawyer Miller,sawyer.miller308@fabrikam.net,2024-01-31,Bronze,306,Chicago,IL,False
+309,Avery Robinson,avery.robinson309@sample.io,2023-04-07,Gold,2081,Seattle,WA,True
+310,Cameron Moore,cameron.moore310@contoso.com,2023-10-25,Bronze,3,New York,NY,True
+311,Elliot Rodriguez,elliot.rodriguez311@contoso.com,2023-02-28,Bronze,202,Miami,FL,False
+312,Jamie Robinson,jamie.robinson312@sample.io,2024-03-12,Bronze,0,Atlanta,GA,True
+313,Cameron White,cameron.white313@sample.io,2024-06-26,Silver,186,Covington,LA,True
+314,Avery Hernandez,avery.hernandez314@sample.io,2024-07-27,Bronze,69,San Francisco,CA,True
+315,Sam Hernandez,sam.hernandez315@contoso.com,2023-03-14,Bronze,139,Denver,CO,True
+316,Sawyer Thomas,sawyer.thomas316@sample.io,2025-08-14,Bronze,57,Miami,FL,False
+317,Taylor Clark,taylor.clark317@example.com,2023-08-21,Bronze,124,Covington,LA,True
+318,Avery Taylor,avery.taylor318@fabrikam.net,2025-08-11,Silver,517,Atlanta,GA,True
+319,Sydney Robinson,sydney.robinson319@fabrikam.net,2025-11-10,Bronze,135,Denver,CO,True
+320,Drew Moore,drew.moore320@contoso.com,2023-02-18,Gold,2460,Covington,LA,True
+321,Terry Robinson,terry.robinson321@sample.io,2025-05-29,Bronze,157,Seattle,WA,True
+322,Kai Rodriguez,kai.rodriguez322@fabrikam.net,2023-11-09,Platinum,8082,Seattle,WA,True
+323,Cameron Thompson,cameron.thompson323@sample.io,2025-06-30,Silver,918,New York,NY,True
+324,Logan Gonzalez,logan.gonzalez324@adventure-works.org,2025-08-20,Silver,206,Denver,CO,True
+325,Taylor Thomas,taylor.thomas325@fabrikam.net,2025-05-31,Gold,3005,Atlanta,GA,False
+326,Pat Lewis,pat.lewis326@adventure-works.org,2024-06-05,Bronze,114,Denver,CO,True
+327,Drew Lewis,drew.lewis327@adventure-works.org,2025-10-06,Bronze,160,Phoenix,AZ,True
+328,Casey Harris,casey.harris328@fabrikam.net,2024-04-09,Bronze,135,Seattle,WA,True
+329,Robin Ramirez,robin.ramirez329@fabrikam.net,2024-02-02,Bronze,138,Miami,FL,True
+330,Taylor Taylor,taylor.taylor330@contoso.com,2025-05-26,Bronze,0,Covington,LA,False
+331,Jamie Martin,jamie.martin331@adventure-works.org,2023-09-22,Platinum,5017,Phoenix,AZ,True
+332,Quinn Thomas,quinn.thomas332@sample.io,2023-11-05,Bronze,275,Atlanta,GA,True
+333,Sam Gonzalez,sam.gonzalez333@example.com,2024-04-17,Silver,571,Phoenix,AZ,True
+334,Pat Sanchez,pat.sanchez334@sample.io,2024-03-04,Bronze,109,San Francisco,CA,True
+335,Elliot Anderson,elliot.anderson335@contoso.com,2025-05-17,Bronze,191,New York,NY,True
+336,Parker Brown,parker.brown336@example.com,2023-12-19,Silver,902,Seattle,WA,True
+337,Terry Hernandez,terry.hernandez337@fabrikam.net,2024-04-24,Bronze,179,Covington,LA,True
+338,Cameron Jackson,cameron.jackson338@adventure-works.org,2023-10-25,Bronze,0,Austin,TX,True
+339,Drew Thomas,drew.thomas339@sample.io,2025-01-04,Bronze,48,Seattle,WA,True
+340,Drew Davis,drew.davis340@fabrikam.net,2024-11-07,Bronze,204,Phoenix,AZ,True
+341,Alex Gonzalez,alex.gonzalez341@contoso.com,2023-10-26,Gold,2153,Phoenix,AZ,True
+342,Jess Lee,jess.lee342@adventure-works.org,2024-04-06,Bronze,229,Austin,TX,False
+343,Avery Thomas,avery.thomas343@contoso.com,2023-09-19,Platinum,5404,Austin,TX,True
+344,Skyler Sanchez,skyler.sanchez344@sample.io,2023-11-03,Bronze,298,Atlanta,GA,False
+345,Kai Brown,kai.brown345@adventure-works.org,2024-12-09,Silver,0,Chicago,IL,True
+346,Pat Miller,pat.miller346@fabrikam.net,2025-07-24,Gold,1887,New York,NY,True
+347,Parker Perez,parker.perez347@fabrikam.net,2024-04-01,Bronze,63,Austin,TX,False
+348,Taylor Anderson,taylor.anderson348@adventure-works.org,2023-09-14,Bronze,16,Denver,CO,False
+349,Jess Thompson,jess.thompson349@fabrikam.net,2025-09-28,Silver,195,Miami,FL,True
+350,Chris Robinson,chris.robinson350@example.com,2024-07-22,Silver,1092,Seattle,WA,True
+351,Chris Martin,chris.martin351@example.com,2023-09-16,Platinum,4687,Phoenix,AZ,True
+352,Morgan Rodriguez,morgan.rodriguez352@sample.io,2023-01-15,Silver,1066,Miami,FL,True
+353,Cameron Anderson,cameron.anderson353@contoso.com,2023-05-09,Silver,299,San Francisco,CA,True
+354,Alex Thomas,alex.thomas354@example.com,2023-08-14,Gold,2002,New York,NY,True
+355,Robin White,robin.white355@sample.io,2024-03-14,Bronze,175,Atlanta,GA,True
+356,Morgan Anderson,morgan.anderson356@fabrikam.net,2025-07-28,Bronze,31,Atlanta,GA,False
+357,Morgan Smith,morgan.smith357@contoso.com,2025-01-10,Gold,2442,Seattle,WA,True
+358,Jamie Moore,jamie.moore358@fabrikam.net,2024-08-25,Silver,239,Denver,CO,True
+359,Riley Lee,riley.lee359@fabrikam.net,2025-10-14,Silver,843,San Francisco,CA,True
+360,Alex Thompson,alex.thompson360@sample.io,2024-05-21,Silver,380,Chicago,IL,False
+361,Taylor Jackson,taylor.jackson361@example.com,2024-11-25,Bronze,166,Miami,FL,True
+362,Reese Taylor,reese.taylor362@contoso.com,2023-10-09,Silver,739,Phoenix,AZ,True
+363,Kai Lopez,kai.lopez363@fabrikam.net,2024-12-24,Gold,2316,Phoenix,AZ,True
+364,Taylor Perez,taylor.perez364@sample.io,2025-04-15,Bronze,69,Atlanta,GA,True
+365,Kai Thompson,kai.thompson365@sample.io,2023-10-09,Bronze,213,Miami,FL,True
+366,Chris Moore,chris.moore366@sample.io,2025-01-05,Bronze,224,Miami,FL,True
+367,Jamie Clark,jamie.clark367@fabrikam.net,2025-08-25,Gold,3379,Phoenix,AZ,True
+368,Logan Moore,logan.moore368@adventure-works.org,2023-08-28,Silver,497,Denver,CO,True
+369,Robin Anderson,robin.anderson369@fabrikam.net,2025-06-26,Silver,660,Austin,TX,True
+370,Cameron Moore,cameron.moore370@contoso.com,2023-05-21,Silver,396,Austin,TX,True
+371,Reese Moore,reese.moore371@adventure-works.org,2025-04-23,Bronze,0,Seattle,WA,True
+372,Shawn Johnson,shawn.johnson372@fabrikam.net,2024-09-21,Platinum,4769,Miami,FL,True
+373,Robin Lee,robin.lee373@sample.io,2025-10-07,Bronze,43,New York,NY,True
+374,Morgan Harris,morgan.harris374@sample.io,2023-12-25,Gold,3699,Chicago,IL,True
+375,Parker Garcia,parker.garcia375@adventure-works.org,2024-10-15,Gold,2854,Austin,TX,True
+376,Sydney Moore,sydney.moore376@sample.io,2024-04-22,Bronze,27,Atlanta,GA,True
+377,Jess Taylor,jess.taylor377@example.com,2023-08-23,Gold,4105,Austin,TX,True
+378,Jess Jones,jess.jones378@sample.io,2024-02-22,Gold,2424,Austin,TX,True
+379,Sam Gonzalez,sam.gonzalez379@fabrikam.net,2024-06-10,Silver,515,Austin,TX,True
+380,Shawn Williams,shawn.williams380@fabrikam.net,2024-05-22,Silver,683,Miami,FL,False
+381,Quinn Thomas,quinn.thomas381@contoso.com,2025-12-07,Gold,2702,Phoenix,AZ,False
+382,Chris Perez,chris.perez382@contoso.com,2022-12-14,Bronze,113,Seattle,WA,False
+383,Robin Miller,robin.miller383@fabrikam.net,2024-02-20,Gold,1949,New York,NY,True
+384,Reese Sanchez,reese.sanchez384@contoso.com,2025-09-09,Bronze,261,Covington,LA,False
+385,Quinn Smith,quinn.smith385@example.com,2023-06-23,Bronze,255,Austin,TX,False
+386,Casey Lewis,casey.lewis386@contoso.com,2024-05-30,Bronze,144,Austin,TX,True
+387,Taylor Lopez,taylor.lopez387@sample.io,2023-09-23,Silver,524,Covington,LA,True
+388,Taylor Thompson,taylor.thompson388@example.com,2024-10-01,Bronze,0,Covington,LA,True
+389,Cameron Taylor,cameron.taylor389@fabrikam.net,2025-11-26,Silver,965,Covington,LA,True
+390,Casey Thomas,casey.thomas390@example.com,2023-10-20,Bronze,0,Chicago,IL,False
+391,Morgan Hernandez,morgan.hernandez391@contoso.com,2025-03-07,Bronze,228,New York,NY,True
+392,Sam Jones,sam.jones392@example.com,2025-11-25,Silver,36,Miami,FL,True
+393,Kai White,kai.white393@sample.io,2023-08-22,Silver,403,Austin,TX,False
+394,Casey Harris,casey.harris394@example.com,2023-10-18,Bronze,174,Phoenix,AZ,True
+395,Terry Jones,terry.jones395@sample.io,2025-06-23,Bronze,21,New York,NY,True
+396,Pat Smith,pat.smith396@contoso.com,2023-01-17,Silver,315,Chicago,IL,True
+397,Logan Martinez,logan.martinez397@example.com,2023-03-05,Bronze,157,Chicago,IL,True
+398,Erin Smith,erin.smith398@contoso.com,2025-03-17,Bronze,292,Atlanta,GA,False
+399,Parker Lopez,parker.lopez399@adventure-works.org,2023-04-23,Platinum,6035,Austin,TX,True
+400,Drew Miller,drew.miller400@example.com,2023-09-19,Bronze,131,Covington,LA,True
+401,Rowan Harris,rowan.harris401@fabrikam.net,2023-09-11,Bronze,15,San Francisco,CA,True
+402,Elliot Williams,elliot.williams402@adventure-works.org,2025-01-28,Bronze,118,Chicago,IL,True
+403,Chris Harris,chris.harris403@example.com,2023-07-01,Silver,659,New York,NY,True
+404,Parker Brown,parker.brown404@fabrikam.net,2025-08-22,Bronze,121,Phoenix,AZ,True
+405,Lee Garcia,lee.garcia405@example.com,2025-03-06,Silver,982,Covington,LA,True
+406,Terry Clark,terry.clark406@contoso.com,2023-11-12,Bronze,361,Austin,TX,False
+407,Drew White,drew.white407@example.com,2024-01-26,Gold,2459,Covington,LA,True
+408,Skyler Lee,skyler.lee408@example.com,2023-05-25,Bronze,185,Denver,CO,True
+409,Jess Jackson,jess.jackson409@sample.io,2025-01-24,Bronze,254,Atlanta,GA,True
+410,Cameron White,cameron.white410@adventure-works.org,2025-09-13,Gold,3129,Covington,LA,True
+411,Jordan Thomas,jordan.thomas411@contoso.com,2025-02-08,Bronze,176,San Francisco,CA,False
+412,Pat White,pat.white412@fabrikam.net,2024-02-22,Bronze,143,Chicago,IL,False
+413,Jamie Rodriguez,jamie.rodriguez413@example.com,2023-11-10,Bronze,134,Phoenix,AZ,True
+414,Rowan Johnson,rowan.johnson414@fabrikam.net,2023-05-05,Gold,2266,Seattle,WA,True
+415,Elliot Hernandez,elliot.hernandez415@example.com,2023-05-22,Bronze,189,Miami,FL,True
+416,Sydney Davis,sydney.davis416@fabrikam.net,2023-03-08,Platinum,7840,Atlanta,GA,True
+417,Lee Lewis,lee.lewis417@adventure-works.org,2025-02-07,Bronze,88,Chicago,IL,True
+418,Robin Thompson,robin.thompson418@example.com,2025-12-10,Silver,717,Atlanta,GA,True
+419,Lee White,lee.white419@contoso.com,2024-10-18,Bronze,158,Seattle,WA,True
+420,Casey Thompson,casey.thompson420@contoso.com,2025-09-14,Gold,3428,Seattle,WA,False
+421,Rowan Wilson,rowan.wilson421@contoso.com,2025-06-22,Silver,173,Denver,CO,True
+422,Skyler Jackson,skyler.jackson422@example.com,2025-03-20,Bronze,145,San Francisco,CA,True
+423,Jamie Robinson,jamie.robinson423@fabrikam.net,2024-03-01,Bronze,174,Atlanta,GA,True
+424,Shawn Jackson,shawn.jackson424@example.com,2025-05-10,Bronze,388,Austin,TX,True
+425,Parker Brown,parker.brown425@adventure-works.org,2024-10-13,Bronze,0,Atlanta,GA,True
+426,Terry Perez,terry.perez426@contoso.com,2025-09-21,Bronze,194,Phoenix,AZ,False
+427,Casey Williams,casey.williams427@sample.io,2023-09-23,Bronze,115,Atlanta,GA,False
+428,Alex Gonzalez,alex.gonzalez428@fabrikam.net,2024-07-19,Bronze,80,Miami,FL,True
+429,Terry Jones,terry.jones429@example.com,2025-08-08,Gold,2920,Covington,LA,True
+430,Kai Perez,kai.perez430@example.com,2024-06-30,Gold,2453,Phoenix,AZ,True
+431,Taylor Miller,taylor.miller431@fabrikam.net,2025-06-07,Gold,2843,Austin,TX,True
+432,Quinn Johnson,quinn.johnson432@sample.io,2023-07-09,Gold,1869,Phoenix,AZ,True
+433,Alex Gonzalez,alex.gonzalez433@fabrikam.net,2023-12-19,Bronze,181,Austin,TX,False
+434,Jordan Martin,jordan.martin434@adventure-works.org,2024-07-27,Silver,824,Phoenix,AZ,True
+435,Erin Moore,erin.moore435@fabrikam.net,2025-06-16,Bronze,193,Covington,LA,False
+436,Rowan Davis,rowan.davis436@adventure-works.org,2023-10-21,Silver,751,Covington,LA,True
+437,Sawyer Sanchez,sawyer.sanchez437@fabrikam.net,2023-02-18,Bronze,147,Atlanta,GA,True
+438,Alex Lewis,alex.lewis438@contoso.com,2023-04-21,Bronze,172,Covington,LA,False
+439,Cameron Garcia,cameron.garcia439@example.com,2024-08-06,Bronze,240,Chicago,IL,True
+440,Cameron Jackson,cameron.jackson440@fabrikam.net,2024-12-22,Bronze,0,Atlanta,GA,True
+441,Terry White,terry.white441@contoso.com,2025-10-16,Silver,368,Phoenix,AZ,True
+442,Avery Clark,avery.clark442@fabrikam.net,2024-03-20,Bronze,253,Miami,FL,True
+443,Jordan Davis,jordan.davis443@adventure-works.org,2025-11-02,Bronze,373,Chicago,IL,True
+444,Casey Hernandez,casey.hernandez444@sample.io,2025-08-13,Bronze,150,Atlanta,GA,True
+445,Casey Harris,casey.harris445@example.com,2023-11-26,Platinum,3491,Miami,FL,True
+446,Morgan Hernandez,morgan.hernandez446@contoso.com,2025-03-08,Platinum,8552,Atlanta,GA,True
+447,Parker Sanchez,parker.sanchez447@fabrikam.net,2024-12-21,Silver,17,Atlanta,GA,True
+448,Kai Davis,kai.davis448@adventure-works.org,2023-10-30,Bronze,70,Austin,TX,True
+449,Casey Garcia,casey.garcia449@example.com,2023-10-03,Gold,2635,Phoenix,AZ,True
+450,Jamie Robinson,jamie.robinson450@adventure-works.org,2025-05-13,Gold,1473,Chicago,IL,True
+451,Lee Williams,lee.williams451@sample.io,2024-02-27,Bronze,182,Atlanta,GA,True
+452,Chris White,chris.white452@contoso.com,2025-11-19,Bronze,121,Denver,CO,True
+453,Taylor Lopez,taylor.lopez453@contoso.com,2025-12-10,Bronze,53,Seattle,WA,True
+454,Parker Thomas,parker.thomas454@fabrikam.net,2023-11-05,Bronze,189,Atlanta,GA,True
+455,Jess Jackson,jess.jackson455@sample.io,2023-06-02,Bronze,197,Austin,TX,True
+456,Morgan Williams,morgan.williams456@contoso.com,2023-11-05,Bronze,81,Austin,TX,True
+457,Erin Williams,erin.williams457@contoso.com,2023-03-30,Silver,203,Phoenix,AZ,True
+458,Parker Garcia,parker.garcia458@example.com,2024-02-03,Bronze,210,Seattle,WA,True
+459,Pat Moore,pat.moore459@adventure-works.org,2024-05-15,Bronze,232,New York,NY,True
+460,Reese Jones,reese.jones460@example.com,2025-12-05,Bronze,206,Atlanta,GA,True
+461,Sam Lee,sam.lee461@adventure-works.org,2024-10-30,Bronze,188,Denver,CO,False
+462,Reese Ramirez,reese.ramirez462@example.com,2023-09-20,Bronze,287,New York,NY,False
+463,Drew Williams,drew.williams463@adventure-works.org,2024-11-29,Bronze,102,San Francisco,CA,True
+464,Quinn Anderson,quinn.anderson464@contoso.com,2024-06-10,Silver,730,Chicago,IL,True
+465,Pat Perez,pat.perez465@example.com,2024-01-08,Gold,1347,Seattle,WA,True
+466,Jordan Clark,jordan.clark466@fabrikam.net,2023-08-08,Platinum,7297,Miami,FL,True
+467,Reese Jackson,reese.jackson467@sample.io,2024-04-09,Bronze,279,Denver,CO,True
+468,Erin Taylor,erin.taylor468@adventure-works.org,2025-02-14,Bronze,59,Phoenix,AZ,False
+469,Riley Garcia,riley.garcia469@sample.io,2025-03-29,Bronze,283,Chicago,IL,True
+470,Robin Lee,robin.lee470@sample.io,2024-07-02,Bronze,221,Phoenix,AZ,True
+471,Terry Williams,terry.williams471@example.com,2023-09-21,Silver,825,San Francisco,CA,False
+472,Alex Sanchez,alex.sanchez472@adventure-works.org,2023-01-07,Silver,315,Phoenix,AZ,True
+473,Casey Jones,casey.jones473@adventure-works.org,2025-05-21,Gold,2159,Phoenix,AZ,True
+474,Sawyer Lewis,sawyer.lewis474@contoso.com,2024-06-20,Bronze,132,San Francisco,CA,True
+475,Sydney Thomas,sydney.thomas475@example.com,2024-05-27,Bronze,38,Austin,TX,True
+476,Logan Lewis,logan.lewis476@contoso.com,2025-09-03,Silver,293,Chicago,IL,False
+477,Erin Lopez,erin.lopez477@example.com,2024-04-01,Bronze,258,Atlanta,GA,True
+478,Jess Davis,jess.davis478@sample.io,2023-06-19,Silver,105,New York,NY,True
+479,Lee Wilson,lee.wilson479@adventure-works.org,2024-11-23,Bronze,237,Seattle,WA,True
+480,Rowan Ramirez,rowan.ramirez480@contoso.com,2023-01-22,Silver,441,Covington,LA,True
+481,Pat Taylor,pat.taylor481@fabrikam.net,2023-01-04,Gold,3014,Austin,TX,True
+482,Robin Johnson,robin.johnson482@sample.io,2023-05-23,Bronze,161,Covington,LA,True
+483,Avery Rodriguez,avery.rodriguez483@contoso.com,2023-02-12,Bronze,283,Denver,CO,True
+484,Reese Martin,reese.martin484@fabrikam.net,2023-04-16,Silver,389,Austin,TX,True
+485,Riley Clark,riley.clark485@contoso.com,2024-05-08,Bronze,336,Seattle,WA,False
+486,Avery Ramirez,avery.ramirez486@sample.io,2024-10-15,Bronze,210,Chicago,IL,True
+487,Alex Ramirez,alex.ramirez487@example.com,2025-03-17,Silver,568,Denver,CO,True
+488,Terry Martinez,terry.martinez488@contoso.com,2023-11-02,Gold,2438,San Francisco,CA,True
+489,Avery Anderson,avery.anderson489@contoso.com,2023-09-21,Silver,1758,Miami,FL,False
+490,Robin Lopez,robin.lopez490@adventure-works.org,2024-05-13,Bronze,167,Phoenix,AZ,True
+491,Taylor Hernandez,taylor.hernandez491@contoso.com,2024-05-24,Bronze,98,Atlanta,GA,True
+492,Casey Taylor,casey.taylor492@sample.io,2023-09-07,Silver,0,Covington,LA,True
+493,Lee Smith,lee.smith493@fabrikam.net,2024-06-29,Gold,1420,New York,NY,True
+494,Skyler Clark,skyler.clark494@sample.io,2024-09-13,Silver,876,Atlanta,GA,True
+495,Reese Robinson,reese.robinson495@contoso.com,2024-04-07,Gold,3382,Miami,FL,True
+496,Morgan Thomas,morgan.thomas496@sample.io,2024-12-03,Gold,1122,New York,NY,False
+497,Chris Williams,chris.williams497@sample.io,2024-09-11,Silver,414,Atlanta,GA,True
+498,Drew Jackson,drew.jackson498@contoso.com,2025-04-15,Bronze,314,Denver,CO,False
+499,Skyler Jackson,skyler.jackson499@adventure-works.org,2023-04-20,Gold,891,Seattle,WA,True
+500,Elliot Wilson,elliot.wilson500@example.com,2025-03-06,Platinum,5990,Austin,TX,True
+501,Skyler Lewis,skyler.lewis501@fabrikam.net,2024-03-05,Gold,2639,Austin,TX,True
+502,Riley Hernandez,riley.hernandez502@example.com,2023-06-01,Bronze,187,Covington,LA,False
+503,Riley Jackson,riley.jackson503@sample.io,2025-06-15,Bronze,53,Denver,CO,True
+504,Reese Gonzalez,reese.gonzalez504@example.com,2022-12-15,Bronze,192,Covington,LA,True
+505,Alex Lewis,alex.lewis505@contoso.com,2024-11-17,Bronze,312,Miami,FL,True
+506,Erin Lopez,erin.lopez506@contoso.com,2025-05-16,Bronze,154,Austin,TX,True
+507,Riley Williams,riley.williams507@example.com,2024-04-26,Bronze,29,New York,NY,True
+508,Sam Jones,sam.jones508@contoso.com,2023-12-08,Silver,553,Denver,CO,True
+509,Terry Gonzalez,terry.gonzalez509@example.com,2024-09-09,Silver,931,Chicago,IL,True
+510,Riley Brown,riley.brown510@contoso.com,2023-11-05,Gold,3455,Covington,LA,True
+511,Sawyer Martin,sawyer.martin511@example.com,2025-09-05,Silver,565,Phoenix,AZ,True
+512,Parker Anderson,parker.anderson512@fabrikam.net,2024-07-13,Bronze,133,Seattle,WA,True
+513,Pat Perez,pat.perez513@example.com,2023-08-04,Silver,475,New York,NY,True
+514,Casey Wilson,casey.wilson514@example.com,2025-04-15,Bronze,82,Miami,FL,False
+515,Reese Miller,reese.miller515@adventure-works.org,2024-06-22,Gold,3242,Chicago,IL,True
+516,Riley Johnson,riley.johnson516@adventure-works.org,2024-10-13,Silver,552,Denver,CO,True
+517,Cameron Smith,cameron.smith517@example.com,2025-04-30,Gold,2278,Seattle,WA,True
+518,Rowan Williams,rowan.williams518@example.com,2024-08-26,Bronze,100,New York,NY,False
+519,Drew Anderson,drew.anderson519@example.com,2024-12-20,Gold,2953,Seattle,WA,True
+520,Parker White,parker.white520@example.com,2025-09-10,Bronze,74,Seattle,WA,True
+521,Chris Garcia,chris.garcia521@contoso.com,2023-06-30,Platinum,5720,Atlanta,GA,True
+522,Jamie Garcia,jamie.garcia522@example.com,2023-09-15,Platinum,8421,San Francisco,CA,True
+523,Logan Thompson,logan.thompson523@fabrikam.net,2025-01-05,Bronze,138,San Francisco,CA,False
+524,Riley Brown,riley.brown524@fabrikam.net,2023-03-30,Gold,2237,Phoenix,AZ,True
+525,Riley Martin,riley.martin525@fabrikam.net,2025-10-14,Gold,3439,Atlanta,GA,False
+526,Reese Robinson,reese.robinson526@fabrikam.net,2023-08-23,Bronze,39,Seattle,WA,True
+527,Chris Hernandez,chris.hernandez527@example.com,2024-09-10,Platinum,5342,Miami,FL,True
+528,Pat Martin,pat.martin528@example.com,2024-07-21,Bronze,70,San Francisco,CA,True
+529,Chris Gonzalez,chris.gonzalez529@sample.io,2025-08-23,Bronze,258,Miami,FL,True
+530,Reese Ramirez,reese.ramirez530@sample.io,2023-03-12,Bronze,102,Seattle,WA,True
+531,Drew Johnson,drew.johnson531@adventure-works.org,2023-10-29,Bronze,160,Chicago,IL,False
+532,Quinn Williams,quinn.williams532@fabrikam.net,2024-03-05,Bronze,260,Denver,CO,True
+533,Chris Smith,chris.smith533@example.com,2023-08-21,Bronze,0,San Francisco,CA,False
+534,Sydney Lee,sydney.lee534@contoso.com,2024-10-15,Silver,429,Miami,FL,True
+535,Jamie Lopez,jamie.lopez535@example.com,2023-05-27,Bronze,164,Chicago,IL,True
+536,Kai Thompson,kai.thompson536@fabrikam.net,2025-05-27,Silver,196,Seattle,WA,True
+537,Jamie Lopez,jamie.lopez537@contoso.com,2023-01-08,Bronze,317,Miami,FL,True
+538,Robin Thompson,robin.thompson538@fabrikam.net,2024-07-10,Silver,996,Seattle,WA,True
+539,Jess Gonzalez,jess.gonzalez539@sample.io,2024-11-17,Silver,841,Denver,CO,False
+540,Robin Perez,robin.perez540@adventure-works.org,2023-06-04,Bronze,214,Seattle,WA,True
+541,Rowan Jones,rowan.jones541@fabrikam.net,2022-12-22,Silver,298,Covington,LA,True
+542,Rowan Harris,rowan.harris542@sample.io,2024-12-22,Silver,495,Phoenix,AZ,True
+543,Logan Perez,logan.perez543@adventure-works.org,2024-02-22,Bronze,0,Phoenix,AZ,False
+544,Shawn Davis,shawn.davis544@contoso.com,2024-01-10,Platinum,8772,San Francisco,CA,True
+545,Casey Jones,casey.jones545@fabrikam.net,2023-01-28,Bronze,90,Phoenix,AZ,True
+546,Sawyer Lee,sawyer.lee546@sample.io,2024-10-09,Silver,31,Chicago,IL,True
+547,Kai Robinson,kai.robinson547@sample.io,2023-02-15,Bronze,47,Austin,TX,False
+548,Sawyer Thomas,sawyer.thomas548@adventure-works.org,2023-08-11,Silver,242,Phoenix,AZ,False
+549,Sawyer Martinez,sawyer.martinez549@fabrikam.net,2023-01-07,Bronze,125,Covington,LA,True
+550,Drew Harris,drew.harris550@sample.io,2024-07-17,Bronze,172,New York,NY,True
+551,Terry Martinez,terry.martinez551@sample.io,2025-10-07,Bronze,17,Miami,FL,True
+552,Sawyer Ramirez,sawyer.ramirez552@sample.io,2023-10-08,Bronze,190,Miami,FL,False
+553,Terry Thompson,terry.thompson553@contoso.com,2023-10-23,Bronze,412,Covington,LA,True
+554,Sawyer Johnson,sawyer.johnson554@example.com,2024-10-23,Silver,380,New York,NY,True
+555,Jess Anderson,jess.anderson555@sample.io,2024-11-05,Silver,844,Atlanta,GA,True
+556,Sam Williams,sam.williams556@sample.io,2023-01-25,Bronze,131,Austin,TX,True
+557,Drew Moore,drew.moore557@contoso.com,2025-01-17,Silver,591,Austin,TX,True
+558,Casey Johnson,casey.johnson558@sample.io,2025-08-30,Silver,868,Atlanta,GA,True
+559,Robin Perez,robin.perez559@contoso.com,2023-12-10,Bronze,117,Denver,CO,False
+560,Rowan Williams,rowan.williams560@adventure-works.org,2023-08-14,Bronze,32,Austin,TX,True
+561,Kai Davis,kai.davis561@sample.io,2024-02-03,Bronze,182,Atlanta,GA,True
+562,Sawyer Clark,sawyer.clark562@example.com,2024-01-04,Bronze,313,Seattle,WA,False
+563,Sydney Robinson,sydney.robinson563@adventure-works.org,2025-09-22,Silver,312,Chicago,IL,False
+564,Logan Rodriguez,logan.rodriguez564@adventure-works.org,2025-10-23,Gold,4106,New York,NY,True
+565,Kai Taylor,kai.taylor565@adventure-works.org,2023-03-22,Bronze,202,Denver,CO,True
+566,Morgan Garcia,morgan.garcia566@adventure-works.org,2025-11-27,Silver,482,Miami,FL,True
+567,Chris Harris,chris.harris567@sample.io,2025-05-14,Bronze,247,San Francisco,CA,True
+568,Parker Lee,parker.lee568@example.com,2025-10-25,Bronze,0,Austin,TX,True
+569,Taylor Williams,taylor.williams569@example.com,2024-07-15,Silver,407,Austin,TX,True
+570,Logan Anderson,logan.anderson570@fabrikam.net,2024-03-05,Bronze,117,San Francisco,CA,True
+571,Sawyer Smith,sawyer.smith571@adventure-works.org,2025-09-10,Silver,1217,Seattle,WA,True
+572,Terry Perez,terry.perez572@contoso.com,2025-06-18,Bronze,251,Phoenix,AZ,False
+573,Logan Gonzalez,logan.gonzalez573@example.com,2025-01-26,Bronze,215,Denver,CO,False
+574,Sawyer Martinez,sawyer.martinez574@sample.io,2023-11-09,Platinum,7129,New York,NY,True
+575,Jess Moore,jess.moore575@sample.io,2025-09-18,Bronze,48,Seattle,WA,False
+576,Elliot Miller,elliot.miller576@contoso.com,2023-08-20,Gold,1933,Chicago,IL,False
+577,Casey Garcia,casey.garcia577@sample.io,2024-07-13,Bronze,224,Chicago,IL,False
+578,Jess Harris,jess.harris578@adventure-works.org,2025-07-16,Bronze,312,Denver,CO,True
+579,Morgan Miller,morgan.miller579@adventure-works.org,2024-02-04,Bronze,115,Denver,CO,True
+580,Taylor Lewis,taylor.lewis580@sample.io,2023-03-23,Bronze,85,Atlanta,GA,True
+581,Elliot Thompson,elliot.thompson581@adventure-works.org,2023-11-27,Gold,2969,Austin,TX,True
+582,Terry Davis,terry.davis582@fabrikam.net,2023-12-07,Bronze,134,New York,NY,True
+583,Erin Thomas,erin.thomas583@fabrikam.net,2023-12-09,Silver,456,Denver,CO,True
+584,Taylor Clark,taylor.clark584@contoso.com,2024-11-05,Bronze,153,Austin,TX,False
+585,Taylor White,taylor.white585@example.com,2023-02-08,Silver,751,Covington,LA,True
+586,Avery Robinson,avery.robinson586@example.com,2024-06-27,Bronze,28,Miami,FL,False
+587,Reese Lee,reese.lee587@sample.io,2023-10-01,Bronze,172,Atlanta,GA,True
+588,Quinn Taylor,quinn.taylor588@adventure-works.org,2023-09-22,Bronze,0,Seattle,WA,True
+589,Cameron Ramirez,cameron.ramirez589@adventure-works.org,2023-01-25,Bronze,219,Austin,TX,True
+590,Jess Jones,jess.jones590@fabrikam.net,2025-09-21,Bronze,258,Atlanta,GA,True
+591,Taylor Rodriguez,taylor.rodriguez591@contoso.com,2025-09-16,Silver,72,Chicago,IL,True
+592,Quinn Lewis,quinn.lewis592@example.com,2024-02-18,Bronze,130,Covington,LA,False
+593,Chris Clark,chris.clark593@contoso.com,2024-12-21,Bronze,53,New York,NY,False
+594,Taylor Taylor,taylor.taylor594@contoso.com,2024-09-12,Bronze,242,San Francisco,CA,True
+595,Jess Lopez,jess.lopez595@fabrikam.net,2025-11-29,Bronze,188,Denver,CO,True
+596,Chris Rodriguez,chris.rodriguez596@sample.io,2024-11-25,Bronze,196,Austin,TX,True
+597,Robin Brown,robin.brown597@sample.io,2024-02-05,Silver,259,San Francisco,CA,True
+598,Riley Lee,riley.lee598@fabrikam.net,2024-07-31,Bronze,163,Covington,LA,True
+599,Riley Jones,riley.jones599@adventure-works.org,2025-02-15,Bronze,146,Covington,LA,False
+600,Sydney Jackson,sydney.jackson600@example.com,2025-06-20,Bronze,212,New York,NY,True
+601,Reese Ramirez,reese.ramirez601@fabrikam.net,2024-09-19,Gold,1352,Austin,TX,True
+602,Riley Martin,riley.martin602@adventure-works.org,2025-01-03,Silver,283,New York,NY,True
+603,Quinn Martin,quinn.martin603@adventure-works.org,2024-08-29,Bronze,162,Seattle,WA,True
+604,Rowan Perez,rowan.perez604@fabrikam.net,2025-05-29,Bronze,163,Austin,TX,False
+605,Sydney Johnson,sydney.johnson605@adventure-works.org,2025-04-16,Bronze,33,Miami,FL,True
+606,Alex Lewis,alex.lewis606@fabrikam.net,2023-08-04,Bronze,0,Miami,FL,True
+607,Rowan Wilson,rowan.wilson607@sample.io,2023-10-24,Bronze,223,Denver,CO,False
+608,Skyler Brown,skyler.brown608@fabrikam.net,2024-07-09,Bronze,0,Austin,TX,True
+609,Jess Williams,jess.williams609@contoso.com,2023-08-29,Bronze,314,Phoenix,AZ,True
+610,Rowan Brown,rowan.brown610@adventure-works.org,2023-11-05,Silver,617,Covington,LA,True
+611,Jamie Wilson,jamie.wilson611@contoso.com,2025-01-30,Bronze,83,Seattle,WA,True
+612,Skyler Lopez,skyler.lopez612@adventure-works.org,2023-09-21,Silver,480,New York,NY,True
+613,Terry Moore,terry.moore613@fabrikam.net,2023-11-15,Silver,0,Austin,TX,True
+614,Shawn Thompson,shawn.thompson614@fabrikam.net,2025-04-13,Silver,691,Austin,TX,True
+615,Pat Garcia,pat.garcia615@example.com,2023-02-05,Bronze,83,Chicago,IL,True
+616,Pat Johnson,pat.johnson616@sample.io,2025-12-02,Gold,3359,San Francisco,CA,True
+617,Reese Robinson,reese.robinson617@adventure-works.org,2025-06-15,Bronze,157,San Francisco,CA,True
+618,Logan Robinson,logan.robinson618@fabrikam.net,2023-01-10,Bronze,190,Phoenix,AZ,False
+619,Jordan Harris,jordan.harris619@sample.io,2023-06-27,Bronze,286,Denver,CO,True
+620,Avery Johnson,avery.johnson620@adventure-works.org,2023-01-21,Silver,40,Miami,FL,True
+621,Sam Johnson,sam.johnson621@contoso.com,2025-12-12,Platinum,7030,Chicago,IL,True
+622,Sam Gonzalez,sam.gonzalez622@fabrikam.net,2024-10-28,Bronze,191,Phoenix,AZ,True
+623,Taylor Robinson,taylor.robinson623@example.com,2024-05-09,Silver,230,Miami,FL,True
+624,Robin Rodriguez,robin.rodriguez624@sample.io,2024-11-09,Bronze,102,Phoenix,AZ,True
+625,Alex Rodriguez,alex.rodriguez625@sample.io,2023-02-10,Bronze,224,San Francisco,CA,False
+626,Terry Taylor,terry.taylor626@contoso.com,2024-07-18,Silver,710,Miami,FL,False
+627,Skyler Thomas,skyler.thomas627@sample.io,2023-05-18,Silver,1075,Atlanta,GA,True
+628,Drew Williams,drew.williams628@fabrikam.net,2024-08-29,Gold,1536,Chicago,IL,True
+629,Kai Taylor,kai.taylor629@adventure-works.org,2024-06-21,Bronze,274,Covington,LA,False
+630,Taylor Moore,taylor.moore630@sample.io,2024-03-10,Bronze,232,Denver,CO,False
+631,Drew Garcia,drew.garcia631@sample.io,2024-10-30,Bronze,153,Denver,CO,True
+632,Robin Davis,robin.davis632@adventure-works.org,2025-01-27,Silver,835,Atlanta,GA,True
+633,Taylor Perez,taylor.perez633@fabrikam.net,2025-11-29,Silver,514,Phoenix,AZ,True
+634,Sydney Hernandez,sydney.hernandez634@fabrikam.net,2024-05-29,Bronze,142,Phoenix,AZ,False
+635,Rowan Rodriguez,rowan.rodriguez635@fabrikam.net,2025-03-25,Bronze,184,Chicago,IL,True
+636,Rowan Lopez,rowan.lopez636@fabrikam.net,2023-05-21,Platinum,4370,Austin,TX,True
+637,Quinn Hernandez,quinn.hernandez637@example.com,2024-10-07,Bronze,226,Covington,LA,False
+638,Riley Moore,riley.moore638@contoso.com,2024-06-09,Bronze,206,Chicago,IL,True
+639,Kai Garcia,kai.garcia639@fabrikam.net,2024-10-07,Bronze,151,San Francisco,CA,True
+640,Quinn Garcia,quinn.garcia640@adventure-works.org,2024-08-31,Gold,1737,Austin,TX,True
+641,Terry Davis,terry.davis641@adventure-works.org,2023-10-24,Bronze,200,San Francisco,CA,True
+642,Alex Garcia,alex.garcia642@fabrikam.net,2025-03-12,Platinum,3663,Denver,CO,True
+643,Rowan Moore,rowan.moore643@contoso.com,2024-04-07,Bronze,169,Denver,CO,True
+644,Riley Johnson,riley.johnson644@sample.io,2023-04-12,Gold,2305,New York,NY,True
+645,Lee Hernandez,lee.hernandez645@contoso.com,2023-12-06,Silver,810,Atlanta,GA,True
+646,Morgan Lopez,morgan.lopez646@adventure-works.org,2024-12-20,Platinum,5519,Chicago,IL,True
+647,Jamie Perez,jamie.perez647@adventure-works.org,2023-06-11,Gold,2017,Denver,CO,True
+648,Casey Ramirez,casey.ramirez648@sample.io,2023-08-02,Silver,767,Atlanta,GA,True
+649,Jess Robinson,jess.robinson649@example.com,2025-01-15,Bronze,93,Seattle,WA,True
+650,Sydney Lee,sydney.lee650@fabrikam.net,2023-06-15,Silver,1002,New York,NY,False
+651,Lee Jackson,lee.jackson651@adventure-works.org,2023-08-18,Bronze,181,Denver,CO,True
+652,Drew White,drew.white652@example.com,2025-01-05,Bronze,109,Chicago,IL,True
+653,Erin Thomas,erin.thomas653@adventure-works.org,2025-10-20,Silver,0,Covington,LA,True
+654,Sydney Jones,sydney.jones654@example.com,2024-03-19,Bronze,100,San Francisco,CA,True
+655,Quinn Lee,quinn.lee655@sample.io,2022-12-30,Gold,3661,Austin,TX,False
+656,Jamie Ramirez,jamie.ramirez656@fabrikam.net,2024-06-03,Bronze,176,Denver,CO,True
+657,Pat Moore,pat.moore657@sample.io,2023-05-22,Silver,345,Phoenix,AZ,True
+658,Chris Moore,chris.moore658@contoso.com,2023-04-01,Bronze,52,Atlanta,GA,False
+659,Quinn Martinez,quinn.martinez659@contoso.com,2024-06-28,Bronze,271,San Francisco,CA,False
+660,Casey Lopez,casey.lopez660@contoso.com,2022-12-13,Bronze,158,Denver,CO,False
+661,Shawn Thomas,shawn.thomas661@contoso.com,2023-07-15,Silver,160,Covington,LA,True
+662,Avery Wilson,avery.wilson662@adventure-works.org,2023-09-26,Bronze,47,San Francisco,CA,True
+663,Chris Gonzalez,chris.gonzalez663@fabrikam.net,2024-06-22,Bronze,64,Chicago,IL,False
+664,Sydney Sanchez,sydney.sanchez664@contoso.com,2022-12-19,Gold,1816,New York,NY,True
+665,Jess Williams,jess.williams665@sample.io,2024-04-28,Bronze,44,Austin,TX,True
+666,Reese Miller,reese.miller666@contoso.com,2025-02-04,Bronze,180,Covington,LA,True
+667,Riley Brown,riley.brown667@contoso.com,2025-03-31,Silver,568,New York,NY,True
+668,Reese Miller,reese.miller668@contoso.com,2024-03-14,Silver,383,San Francisco,CA,True
+669,Kai Anderson,kai.anderson669@example.com,2025-07-01,Gold,2759,Atlanta,GA,True
+670,Taylor Moore,taylor.moore670@fabrikam.net,2024-11-14,Gold,2418,Austin,TX,True
+671,Logan Clark,logan.clark671@example.com,2024-07-21,Bronze,224,Seattle,WA,False
+672,Avery Anderson,avery.anderson672@example.com,2024-10-12,Bronze,138,Miami,FL,True
+673,Elliot Robinson,elliot.robinson673@contoso.com,2025-09-17,Silver,454,Austin,TX,True
+674,Elliot Miller,elliot.miller674@contoso.com,2024-09-22,Platinum,5765,Covington,LA,True
+675,Parker Hernandez,parker.hernandez675@example.com,2024-05-26,Silver,422,Austin,TX,False
+676,Skyler Sanchez,skyler.sanchez676@fabrikam.net,2025-01-29,Bronze,195,Phoenix,AZ,True
+677,Riley Thomas,riley.thomas677@example.com,2024-01-19,Gold,3620,Phoenix,AZ,True
+678,Chris Jones,chris.jones678@adventure-works.org,2025-03-30,Bronze,147,Seattle,WA,True
+679,Sawyer Sanchez,sawyer.sanchez679@contoso.com,2024-11-12,Bronze,34,Denver,CO,True
+680,Jordan Thomas,jordan.thomas680@fabrikam.net,2024-04-18,Bronze,261,Miami,FL,True
+681,Skyler Garcia,skyler.garcia681@adventure-works.org,2024-02-19,Silver,510,Atlanta,GA,False
+682,Sawyer Garcia,sawyer.garcia682@example.com,2025-01-29,Bronze,336,Miami,FL,False
+683,Sawyer Lopez,sawyer.lopez683@fabrikam.net,2023-02-10,Bronze,157,Covington,LA,False
+684,Shawn Martin,shawn.martin684@sample.io,2025-08-05,Silver,653,Atlanta,GA,True
+685,Logan Miller,logan.miller685@adventure-works.org,2025-01-31,Silver,410,Denver,CO,True
+686,Rowan Perez,rowan.perez686@example.com,2025-03-22,Bronze,278,Covington,LA,True
+687,Morgan Thomas,morgan.thomas687@sample.io,2025-10-08,Silver,826,Seattle,WA,True
+688,Pat Jackson,pat.jackson688@contoso.com,2023-11-23,Bronze,24,Covington,LA,True
+689,Alex Robinson,alex.robinson689@sample.io,2025-07-02,Bronze,89,Denver,CO,True
+690,Erin Wilson,erin.wilson690@contoso.com,2024-06-16,Bronze,77,Covington,LA,True
+691,Robin Martinez,robin.martinez691@example.com,2023-01-14,Bronze,130,Chicago,IL,True
+692,Rowan Perez,rowan.perez692@sample.io,2024-12-11,Silver,234,Phoenix,AZ,True
+693,Lee Brown,lee.brown693@adventure-works.org,2023-05-18,Silver,473,Atlanta,GA,True
+694,Sawyer Gonzalez,sawyer.gonzalez694@adventure-works.org,2025-01-23,Bronze,170,Atlanta,GA,True
+695,Kai Lewis,kai.lewis695@contoso.com,2024-02-17,Gold,1534,Miami,FL,True
+696,Jamie Martin,jamie.martin696@sample.io,2024-09-30,Bronze,224,Phoenix,AZ,True
+697,Lee Rodriguez,lee.rodriguez697@contoso.com,2023-06-10,Platinum,6398,Denver,CO,True
+698,Alex Taylor,alex.taylor698@sample.io,2025-11-29,Bronze,150,New York,NY,True
+699,Jess Hernandez,jess.hernandez699@example.com,2023-01-30,Silver,755,New York,NY,True
+700,Kai Jones,kai.jones700@sample.io,2023-11-22,Gold,2291,New York,NY,True
+701,Drew Sanchez,drew.sanchez701@contoso.com,2023-09-16,Silver,624,Seattle,WA,True
+702,Reese Garcia,reese.garcia702@fabrikam.net,2025-05-31,Silver,717,Phoenix,AZ,True
+703,Lee Sanchez,lee.sanchez703@adventure-works.org,2025-07-05,Silver,838,San Francisco,CA,False
+704,Parker Wilson,parker.wilson704@example.com,2025-11-19,Silver,472,Chicago,IL,True
+705,Jordan Martinez,jordan.martinez705@adventure-works.org,2024-02-28,Bronze,219,Covington,LA,True
+706,Jordan Perez,jordan.perez706@fabrikam.net,2023-02-13,Bronze,245,Denver,CO,True
+707,Terry Gonzalez,terry.gonzalez707@sample.io,2024-01-24,Bronze,121,Austin,TX,True
+708,Taylor Gonzalez,taylor.gonzalez708@adventure-works.org,2025-03-20,Silver,558,San Francisco,CA,True
+709,Avery Thomas,avery.thomas709@fabrikam.net,2024-11-06,Silver,965,Phoenix,AZ,True
+710,Drew Harris,drew.harris710@fabrikam.net,2025-06-12,Bronze,147,Atlanta,GA,True
+711,Kai Lopez,kai.lopez711@sample.io,2024-01-07,Silver,852,Atlanta,GA,False
+712,Sydney Clark,sydney.clark712@fabrikam.net,2025-02-17,Bronze,162,Phoenix,AZ,False
+713,Cameron Miller,cameron.miller713@contoso.com,2025-06-20,Bronze,379,Austin,TX,False
+714,Jess Clark,jess.clark714@contoso.com,2024-01-09,Silver,845,Covington,LA,True
+715,Quinn Thomas,quinn.thomas715@example.com,2024-10-10,Silver,689,Atlanta,GA,True
+716,Sawyer Thomas,sawyer.thomas716@adventure-works.org,2025-11-05,Bronze,272,Austin,TX,False
+717,Rowan Johnson,rowan.johnson717@contoso.com,2025-08-11,Bronze,183,Austin,TX,True
+718,Chris Smith,chris.smith718@example.com,2024-06-05,Silver,196,San Francisco,CA,False
+719,Kai Ramirez,kai.ramirez719@example.com,2024-04-22,Gold,2157,Covington,LA,True
+720,Pat Brown,pat.brown720@contoso.com,2022-12-20,Bronze,91,Denver,CO,True
+721,Quinn Moore,quinn.moore721@example.com,2024-07-24,Gold,2185,Covington,LA,True
+722,Alex Lopez,alex.lopez722@contoso.com,2024-04-02,Bronze,259,Atlanta,GA,False
+723,Rowan Rodriguez,rowan.rodriguez723@example.com,2023-10-12,Gold,2577,New York,NY,True
+724,Drew Davis,drew.davis724@sample.io,2023-09-30,Silver,532,Atlanta,GA,True
+725,Logan Taylor,logan.taylor725@adventure-works.org,2023-08-11,Bronze,302,Chicago,IL,False
+726,Jamie Anderson,jamie.anderson726@adventure-works.org,2024-10-15,Silver,1252,Austin,TX,True
+727,Sam Sanchez,sam.sanchez727@sample.io,2024-03-20,Silver,1128,Austin,TX,True
+728,Shawn Jones,shawn.jones728@adventure-works.org,2024-03-02,Bronze,19,Austin,TX,True
+729,Lee Brown,lee.brown729@sample.io,2025-02-17,Silver,659,Atlanta,GA,True
+730,Parker Martinez,parker.martinez730@fabrikam.net,2025-02-04,Silver,0,New York,NY,True
+731,Riley Smith,riley.smith731@adventure-works.org,2024-06-14,Silver,292,Phoenix,AZ,True
+732,Alex Lopez,alex.lopez732@example.com,2025-03-13,Bronze,62,Denver,CO,True
+733,Pat Lee,pat.lee733@contoso.com,2023-10-11,Bronze,192,Austin,TX,True
+734,Shawn Smith,shawn.smith734@contoso.com,2024-09-13,Silver,749,San Francisco,CA,False
+735,Shawn Miller,shawn.miller735@example.com,2023-06-27,Gold,1792,Austin,TX,True
+736,Cameron Wilson,cameron.wilson736@fabrikam.net,2023-10-25,Silver,616,Covington,LA,True
+737,Lee Jackson,lee.jackson737@adventure-works.org,2023-01-02,Silver,576,Miami,FL,True
+738,Quinn Clark,quinn.clark738@example.com,2023-01-15,Bronze,123,Chicago,IL,False
+739,Jordan Moore,jordan.moore739@fabrikam.net,2025-09-03,Bronze,0,Miami,FL,False
+740,Elliot Anderson,elliot.anderson740@sample.io,2024-04-19,Silver,831,San Francisco,CA,True
+741,Rowan Lewis,rowan.lewis741@sample.io,2023-06-01,Bronze,87,Denver,CO,True
+742,Erin Thompson,erin.thompson742@adventure-works.org,2023-09-29,Bronze,149,Austin,TX,True
+743,Riley Anderson,riley.anderson743@adventure-works.org,2023-05-26,Bronze,85,Chicago,IL,True
+744,Riley Thompson,riley.thompson744@example.com,2025-04-23,Silver,987,Seattle,WA,True
+745,Taylor Taylor,taylor.taylor745@fabrikam.net,2025-01-19,Bronze,24,Miami,FL,False
+746,Skyler Ramirez,skyler.ramirez746@sample.io,2025-02-19,Bronze,266,Austin,TX,True
+747,Parker Martinez,parker.martinez747@contoso.com,2024-04-30,Silver,717,Denver,CO,True
+748,Sydney Harris,sydney.harris748@contoso.com,2023-05-18,Bronze,185,Covington,LA,True
+749,Terry Smith,terry.smith749@adventure-works.org,2024-08-12,Bronze,90,Denver,CO,True
+750,Sydney Martin,sydney.martin750@example.com,2024-05-22,Silver,322,Chicago,IL,True
+751,Robin Miller,robin.miller751@example.com,2025-02-12,Bronze,117,Austin,TX,True
+752,Skyler Clark,skyler.clark752@adventure-works.org,2024-02-03,Gold,2864,New York,NY,True
+753,Parker Garcia,parker.garcia753@sample.io,2024-12-14,Platinum,5994,New York,NY,True
+754,Shawn Martinez,shawn.martinez754@contoso.com,2023-10-28,Gold,1743,Atlanta,GA,True
+755,Robin Moore,robin.moore755@example.com,2023-04-23,Bronze,122,New York,NY,True
+756,Rowan Miller,rowan.miller756@sample.io,2025-08-15,Bronze,74,Phoenix,AZ,True
+757,Chris Taylor,chris.taylor757@example.com,2024-05-03,Bronze,194,Denver,CO,True
+758,Sydney Lopez,sydney.lopez758@sample.io,2023-03-02,Bronze,86,Phoenix,AZ,True
+759,Reese Sanchez,reese.sanchez759@sample.io,2024-08-23,Silver,616,Phoenix,AZ,True
+760,Chris Sanchez,chris.sanchez760@example.com,2023-08-16,Bronze,149,Chicago,IL,True
+761,Sawyer Sanchez,sawyer.sanchez761@sample.io,2024-10-26,Silver,596,Covington,LA,True
+762,Sawyer Hernandez,sawyer.hernandez762@example.com,2024-01-30,Bronze,187,Seattle,WA,True
+763,Sydney Smith,sydney.smith763@sample.io,2024-02-05,Gold,3306,Chicago,IL,True
+764,Jordan Lee,jordan.lee764@sample.io,2025-01-28,Silver,439,Denver,CO,False
+765,Sawyer Lewis,sawyer.lewis765@contoso.com,2023-08-18,Gold,3411,Denver,CO,True
+766,Sam Hernandez,sam.hernandez766@adventure-works.org,2025-11-04,Bronze,191,Miami,FL,True
+767,Terry Robinson,terry.robinson767@contoso.com,2025-02-10,Bronze,431,Seattle,WA,True
+768,Robin Garcia,robin.garcia768@adventure-works.org,2023-10-07,Bronze,205,Phoenix,AZ,True
+769,Terry Harris,terry.harris769@contoso.com,2025-10-09,Bronze,325,Atlanta,GA,True
+770,Robin Martinez,robin.martinez770@sample.io,2024-04-02,Bronze,256,Miami,FL,True
+771,Jordan Harris,jordan.harris771@sample.io,2023-06-18,Bronze,215,Seattle,WA,True
+772,Jamie Robinson,jamie.robinson772@fabrikam.net,2024-03-17,Silver,0,Miami,FL,True
+773,Jess Brown,jess.brown773@adventure-works.org,2024-10-18,Silver,140,Austin,TX,True
+774,Alex Martinez,alex.martinez774@example.com,2025-06-17,Bronze,189,Phoenix,AZ,False
+775,Morgan Taylor,morgan.taylor775@contoso.com,2024-03-13,Silver,650,Covington,LA,True
+776,Sawyer Hernandez,sawyer.hernandez776@fabrikam.net,2024-06-02,Bronze,214,Seattle,WA,True
+777,Alex Martin,alex.martin777@adventure-works.org,2025-05-17,Bronze,98,Miami,FL,True
+778,Pat Sanchez,pat.sanchez778@contoso.com,2024-07-29,Bronze,220,Phoenix,AZ,True
+779,Erin Hernandez,erin.hernandez779@adventure-works.org,2025-08-31,Bronze,2,Denver,CO,True
+780,Jordan Williams,jordan.williams780@fabrikam.net,2024-12-11,Silver,682,San Francisco,CA,False
+781,Chris Clark,chris.clark781@fabrikam.net,2023-12-15,Bronze,214,Phoenix,AZ,True
+782,Sawyer Williams,sawyer.williams782@fabrikam.net,2025-03-18,Bronze,5,Phoenix,AZ,False
+783,Pat Anderson,pat.anderson783@example.com,2024-03-17,Silver,516,Denver,CO,True
+784,Cameron Jones,cameron.jones784@adventure-works.org,2023-11-29,Bronze,41,New York,NY,True
+785,Sam Hernandez,sam.hernandez785@contoso.com,2023-03-20,Bronze,58,Denver,CO,True
+786,Riley Martinez,riley.martinez786@contoso.com,2025-03-27,Bronze,164,Phoenix,AZ,True
+787,Pat Sanchez,pat.sanchez787@example.com,2025-07-20,Silver,302,Atlanta,GA,True
+788,Sydney Davis,sydney.davis788@adventure-works.org,2023-03-31,Bronze,129,Austin,TX,True
+789,Robin Thompson,robin.thompson789@adventure-works.org,2023-07-05,Silver,347,San Francisco,CA,True
+790,Sam Williams,sam.williams790@adventure-works.org,2025-04-22,Silver,986,Denver,CO,True
+791,Sawyer Brown,sawyer.brown791@fabrikam.net,2024-03-22,Platinum,6652,Austin,TX,True
+792,Shawn Clark,shawn.clark792@fabrikam.net,2023-03-06,Silver,660,Atlanta,GA,True
+793,Avery Clark,avery.clark793@sample.io,2025-12-12,Silver,424,Phoenix,AZ,True
+794,Sydney Jackson,sydney.jackson794@fabrikam.net,2024-10-17,Silver,320,Chicago,IL,True
+795,Skyler Sanchez,skyler.sanchez795@contoso.com,2024-01-07,Platinum,4209,San Francisco,CA,True
+796,Jess Jones,jess.jones796@contoso.com,2023-11-17,Gold,1953,Covington,LA,False
+797,Alex Thompson,alex.thompson797@adventure-works.org,2025-05-02,Gold,2889,Atlanta,GA,True
+798,Logan Lee,logan.lee798@contoso.com,2023-09-03,Bronze,95,San Francisco,CA,True
+799,Sam Garcia,sam.garcia799@fabrikam.net,2024-11-22,Silver,756,Austin,TX,True
+800,Elliot Ramirez,elliot.ramirez800@sample.io,2025-11-19,Bronze,71,Austin,TX,True
+801,Lee Lewis,lee.lewis801@fabrikam.net,2025-03-09,Bronze,85,San Francisco,CA,True
+802,Terry Thompson,terry.thompson802@adventure-works.org,2024-12-09,Bronze,69,San Francisco,CA,True
+803,Robin Anderson,robin.anderson803@fabrikam.net,2024-09-06,Bronze,45,Atlanta,GA,False
+804,Cameron Thompson,cameron.thompson804@adventure-works.org,2023-08-24,Gold,1858,New York,NY,True
+805,Jordan Johnson,jordan.johnson805@adventure-works.org,2023-11-19,Bronze,0,Denver,CO,True
+806,Lee Taylor,lee.taylor806@contoso.com,2023-01-19,Bronze,167,Denver,CO,False
+807,Taylor Davis,taylor.davis807@fabrikam.net,2024-03-13,Silver,905,Seattle,WA,True
+808,Quinn Taylor,quinn.taylor808@fabrikam.net,2024-02-03,Bronze,79,Phoenix,AZ,False
+809,Terry Martinez,terry.martinez809@contoso.com,2025-10-01,Silver,391,Austin,TX,True
+810,Drew Johnson,drew.johnson810@fabrikam.net,2024-12-31,Silver,452,Phoenix,AZ,True
+811,Elliot Sanchez,elliot.sanchez811@adventure-works.org,2024-05-04,Bronze,177,Covington,LA,False
+812,Drew Jones,drew.jones812@adventure-works.org,2024-05-28,Gold,2728,New York,NY,True
+813,Morgan Martin,morgan.martin813@sample.io,2025-02-06,Silver,472,Phoenix,AZ,True
+814,Cameron Thomas,cameron.thomas814@sample.io,2025-10-06,Bronze,195,Miami,FL,True
+815,Casey Martin,casey.martin815@sample.io,2023-08-20,Silver,624,Denver,CO,True
+816,Avery Jackson,avery.jackson816@contoso.com,2024-06-19,Silver,922,Covington,LA,True
+817,Riley Anderson,riley.anderson817@fabrikam.net,2024-04-04,Bronze,364,Denver,CO,True
+818,Sam Thompson,sam.thompson818@fabrikam.net,2024-06-23,Bronze,77,Denver,CO,False
+819,Alex Martinez,alex.martinez819@fabrikam.net,2024-03-06,Platinum,5822,San Francisco,CA,False
+820,Chris Lopez,chris.lopez820@fabrikam.net,2024-06-02,Bronze,123,Phoenix,AZ,True
+821,Morgan Rodriguez,morgan.rodriguez821@adventure-works.org,2023-05-13,Silver,597,San Francisco,CA,True
+822,Avery Taylor,avery.taylor822@contoso.com,2024-03-11,Bronze,0,Austin,TX,True
+823,Robin Williams,robin.williams823@example.com,2025-05-26,Bronze,113,San Francisco,CA,True
+824,Drew Miller,drew.miller824@example.com,2025-06-07,Bronze,64,Covington,LA,True
+825,Erin Clark,erin.clark825@sample.io,2025-04-07,Silver,1030,Phoenix,AZ,True
+826,Sam Harris,sam.harris826@adventure-works.org,2025-04-29,Silver,1004,Austin,TX,True
+827,Quinn Perez,quinn.perez827@example.com,2024-05-25,Silver,441,Denver,CO,True
+828,Drew Garcia,drew.garcia828@example.com,2025-08-07,Bronze,11,New York,NY,True
+829,Jordan Rodriguez,jordan.rodriguez829@contoso.com,2023-06-24,Bronze,216,Austin,TX,True
+830,Chris Thomas,chris.thomas830@example.com,2023-07-13,Bronze,141,Austin,TX,True
+831,Quinn Thompson,quinn.thompson831@contoso.com,2025-10-02,Bronze,81,Seattle,WA,True
+832,Erin Thomas,erin.thomas832@sample.io,2025-09-26,Silver,501,Covington,LA,True
+833,Pat Hernandez,pat.hernandez833@fabrikam.net,2025-12-05,Bronze,257,Phoenix,AZ,True
+834,Jess White,jess.white834@example.com,2024-09-06,Bronze,107,Miami,FL,False
+835,Robin Harris,robin.harris835@fabrikam.net,2023-12-08,Bronze,139,Seattle,WA,False
+836,Chris Williams,chris.williams836@contoso.com,2024-01-16,Bronze,181,Miami,FL,True
+837,Shawn Martinez,shawn.martinez837@sample.io,2025-09-23,Platinum,5327,Austin,TX,True
+838,Morgan Lee,morgan.lee838@contoso.com,2025-06-22,Gold,1929,Denver,CO,True
+839,Avery Jones,avery.jones839@example.com,2025-10-22,Silver,309,Chicago,IL,True
+840,Sawyer Lee,sawyer.lee840@contoso.com,2022-12-15,Platinum,5041,Denver,CO,True
+841,Alex Johnson,alex.johnson841@contoso.com,2024-01-21,Silver,745,Covington,LA,False
+842,Sam Taylor,sam.taylor842@fabrikam.net,2025-02-10,Silver,639,Miami,FL,True
+843,Taylor Johnson,taylor.johnson843@sample.io,2025-11-03,Bronze,176,Denver,CO,True
+844,Casey Smith,casey.smith844@sample.io,2024-03-23,Gold,2379,Covington,LA,True
+845,Sydney Garcia,sydney.garcia845@adventure-works.org,2025-05-09,Bronze,35,Seattle,WA,True
+846,Avery Wilson,avery.wilson846@contoso.com,2024-02-17,Bronze,72,San Francisco,CA,True
+847,Sawyer Jones,sawyer.jones847@contoso.com,2025-09-10,Silver,522,Chicago,IL,True
+848,Parker Garcia,parker.garcia848@contoso.com,2025-01-09,Bronze,193,Miami,FL,False
+849,Jordan Jones,jordan.jones849@example.com,2023-11-03,Silver,944,Phoenix,AZ,True
+850,Riley Robinson,riley.robinson850@example.com,2024-05-10,Bronze,161,Phoenix,AZ,False
+851,Shawn Thomas,shawn.thomas851@sample.io,2025-02-22,Silver,294,Chicago,IL,False
+852,Sydney Thompson,sydney.thompson852@example.com,2024-12-09,Silver,555,Phoenix,AZ,True
+853,Taylor Lee,taylor.lee853@contoso.com,2023-08-08,Bronze,154,Atlanta,GA,True
+854,Morgan Martin,morgan.martin854@contoso.com,2023-02-07,Bronze,199,Miami,FL,False
+855,Sam Miller,sam.miller855@contoso.com,2024-11-11,Bronze,264,Covington,LA,False
+856,Reese Garcia,reese.garcia856@sample.io,2025-08-24,Silver,1065,Covington,LA,True
+857,Parker Rodriguez,parker.rodriguez857@contoso.com,2023-05-29,Bronze,136,Phoenix,AZ,True
+858,Terry Smith,terry.smith858@fabrikam.net,2025-04-19,Bronze,0,Miami,FL,True
+859,Quinn Jackson,quinn.jackson859@adventure-works.org,2023-08-07,Bronze,110,Atlanta,GA,False
+860,Jamie Davis,jamie.davis860@example.com,2023-08-21,Gold,1863,Chicago,IL,True
+861,Cameron Williams,cameron.williams861@fabrikam.net,2023-03-26,Bronze,85,Phoenix,AZ,True
+862,Riley Gonzalez,riley.gonzalez862@contoso.com,2023-05-20,Silver,682,Austin,TX,True
+863,Drew Miller,drew.miller863@contoso.com,2025-10-08,Silver,751,Austin,TX,False
+864,Quinn Wilson,quinn.wilson864@sample.io,2024-09-18,Gold,2658,Atlanta,GA,True
+865,Terry Sanchez,terry.sanchez865@adventure-works.org,2024-08-29,Bronze,222,Austin,TX,False
+866,Skyler Thomas,skyler.thomas866@fabrikam.net,2025-11-13,Silver,327,New York,NY,True
+867,Cameron Davis,cameron.davis867@contoso.com,2024-09-13,Gold,2119,San Francisco,CA,True
+868,Alex Wilson,alex.wilson868@example.com,2023-04-24,Silver,507,Covington,LA,True
+869,Parker Taylor,parker.taylor869@fabrikam.net,2025-05-26,Bronze,157,Denver,CO,True
+870,Lee Wilson,lee.wilson870@sample.io,2023-12-09,Bronze,277,Austin,TX,True
+871,Taylor Smith,taylor.smith871@fabrikam.net,2025-01-15,Silver,912,New York,NY,True
+872,Quinn Anderson,quinn.anderson872@sample.io,2024-11-29,Silver,212,San Francisco,CA,True
+873,Quinn Thompson,quinn.thompson873@example.com,2023-10-16,Gold,2397,Seattle,WA,True
+874,Drew Thompson,drew.thompson874@adventure-works.org,2024-10-14,Silver,667,Miami,FL,True
+875,Erin Hernandez,erin.hernandez875@example.com,2023-11-28,Gold,3085,Miami,FL,True
+876,Kai Lopez,kai.lopez876@sample.io,2025-07-28,Silver,783,Miami,FL,True
+877,Casey Hernandez,casey.hernandez877@sample.io,2025-04-24,Silver,560,Miami,FL,False
+878,Pat Miller,pat.miller878@sample.io,2023-12-21,Gold,1167,Atlanta,GA,True
+879,Parker Rodriguez,parker.rodriguez879@example.com,2023-11-10,Bronze,28,Seattle,WA,True
+880,Pat Moore,pat.moore880@adventure-works.org,2023-06-01,Silver,631,New York,NY,True
+881,Pat Sanchez,pat.sanchez881@example.com,2023-05-20,Bronze,101,Chicago,IL,False
+882,Taylor Brown,taylor.brown882@sample.io,2025-04-27,Silver,719,New York,NY,True
+883,Jess Miller,jess.miller883@adventure-works.org,2024-04-21,Bronze,54,Covington,LA,True
+884,Parker Anderson,parker.anderson884@example.com,2024-11-20,Bronze,0,New York,NY,False
+885,Cameron Clark,cameron.clark885@adventure-works.org,2023-08-22,Silver,305,Atlanta,GA,True
+886,Sam Thompson,sam.thompson886@adventure-works.org,2023-06-15,Bronze,4,Miami,FL,True
+887,Erin Sanchez,erin.sanchez887@contoso.com,2024-06-28,Bronze,92,Austin,TX,False
+888,Casey Lopez,casey.lopez888@contoso.com,2025-01-06,Silver,778,Denver,CO,True
+889,Sawyer Martinez,sawyer.martinez889@sample.io,2025-02-01,Bronze,386,Austin,TX,True
+890,Quinn Rodriguez,quinn.rodriguez890@contoso.com,2024-10-18,Silver,1240,Austin,TX,True
+891,Jamie Lopez,jamie.lopez891@sample.io,2023-06-08,Bronze,194,Atlanta,GA,False
+892,Logan Robinson,logan.robinson892@fabrikam.net,2023-05-19,Gold,3078,Austin,TX,True
+893,Lee Moore,lee.moore893@adventure-works.org,2024-04-16,Bronze,90,Atlanta,GA,False
+894,Skyler Perez,skyler.perez894@sample.io,2023-06-21,Bronze,382,Phoenix,AZ,True
+895,Reese Lewis,reese.lewis895@example.com,2025-04-17,Bronze,0,Austin,TX,True
+896,Taylor Hernandez,taylor.hernandez896@example.com,2024-11-08,Silver,933,Phoenix,AZ,True
+897,Shawn Rodriguez,shawn.rodriguez897@sample.io,2025-06-24,Bronze,9,Covington,LA,True
+898,Rowan Gonzalez,rowan.gonzalez898@sample.io,2024-03-02,Silver,750,Denver,CO,True
+899,Jordan Robinson,jordan.robinson899@contoso.com,2025-02-13,Silver,333,San Francisco,CA,True
+900,Kai Lopez,kai.lopez900@contoso.com,2025-06-16,Bronze,193,Denver,CO,False
+901,Lee Wilson,lee.wilson901@fabrikam.net,2025-01-11,Gold,3325,New York,NY,False
+902,Casey Clark,casey.clark902@adventure-works.org,2025-06-19,Bronze,130,Phoenix,AZ,True
+903,Jess Taylor,jess.taylor903@contoso.com,2023-11-04,Bronze,0,Seattle,WA,True
+904,Sawyer Anderson,sawyer.anderson904@adventure-works.org,2024-10-30,Bronze,269,Austin,TX,True
+905,Sawyer Thomas,sawyer.thomas905@example.com,2024-03-30,Bronze,145,New York,NY,False
+906,Casey Rodriguez,casey.rodriguez906@contoso.com,2025-04-02,Silver,386,Denver,CO,False
+907,Parker Garcia,parker.garcia907@fabrikam.net,2025-10-15,Bronze,95,Chicago,IL,True
+908,Lee Lopez,lee.lopez908@adventure-works.org,2023-07-03,Gold,5035,Denver,CO,True
+909,Reese Thompson,reese.thompson909@example.com,2023-01-28,Silver,831,Atlanta,GA,True
+910,Casey Hernandez,casey.hernandez910@fabrikam.net,2023-12-12,Bronze,158,Austin,TX,True
+911,Parker Lee,parker.lee911@contoso.com,2024-04-28,Bronze,124,Covington,LA,True
+912,Chris Garcia,chris.garcia912@example.com,2025-01-04,Bronze,119,Phoenix,AZ,False
+913,Robin Ramirez,robin.ramirez913@contoso.com,2023-12-01,Bronze,0,New York,NY,True
+914,Rowan Martinez,rowan.martinez914@contoso.com,2023-08-22,Bronze,60,Denver,CO,False
+915,Morgan Miller,morgan.miller915@sample.io,2024-09-16,Gold,2786,Miami,FL,True
+916,Rowan Ramirez,rowan.ramirez916@adventure-works.org,2025-04-23,Bronze,27,Miami,FL,False
+917,Morgan Clark,morgan.clark917@sample.io,2023-04-05,Bronze,130,Covington,LA,True
+918,Sydney Taylor,sydney.taylor918@contoso.com,2024-03-29,Bronze,98,Austin,TX,False
+919,Cameron Jones,cameron.jones919@sample.io,2024-03-23,Bronze,177,Chicago,IL,True
+920,Terry Brown,terry.brown920@example.com,2023-03-27,Silver,688,Covington,LA,True
+921,Morgan Johnson,morgan.johnson921@adventure-works.org,2025-08-13,Bronze,174,Phoenix,AZ,True
+922,Alex Harris,alex.harris922@example.com,2024-10-18,Silver,551,Seattle,WA,True
+923,Sam Lopez,sam.lopez923@example.com,2025-02-17,Gold,4321,Seattle,WA,True
+924,Riley Ramirez,riley.ramirez924@adventure-works.org,2024-08-04,Bronze,62,Phoenix,AZ,True
+925,Robin Jackson,robin.jackson925@example.com,2024-09-24,Silver,779,Miami,FL,True
+926,Alex White,alex.white926@example.com,2023-02-14,Gold,2390,Chicago,IL,True
+927,Pat Jackson,pat.jackson927@sample.io,2025-05-07,Bronze,90,Denver,CO,True
+928,Cameron Wilson,cameron.wilson928@example.com,2025-04-03,Bronze,227,Atlanta,GA,True
+929,Reese Harris,reese.harris929@contoso.com,2025-09-20,Bronze,51,New York,NY,True
+930,Lee Martinez,lee.martinez930@fabrikam.net,2023-08-31,Bronze,153,Chicago,IL,False
+931,Avery Ramirez,avery.ramirez931@example.com,2023-11-21,Bronze,266,Denver,CO,True
+932,Quinn Taylor,quinn.taylor932@example.com,2025-02-22,Bronze,149,Seattle,WA,True
+933,Morgan White,morgan.white933@sample.io,2023-11-29,Platinum,4934,Seattle,WA,False
+934,Morgan Davis,morgan.davis934@fabrikam.net,2024-05-21,Silver,942,Denver,CO,True
+935,Skyler Rodriguez,skyler.rodriguez935@fabrikam.net,2023-04-13,Silver,1445,Atlanta,GA,True
+936,Casey Harris,casey.harris936@fabrikam.net,2025-04-06,Bronze,58,Seattle,WA,True
+937,Chris Jones,chris.jones937@example.com,2025-08-26,Gold,2313,Seattle,WA,True
+938,Sydney Perez,sydney.perez938@contoso.com,2024-04-01,Silver,600,Austin,TX,True
+939,Taylor Perez,taylor.perez939@adventure-works.org,2023-05-03,Bronze,89,Denver,CO,True
+940,Jamie Sanchez,jamie.sanchez940@adventure-works.org,2025-11-06,Platinum,4517,Miami,FL,True
+941,Parker Lewis,parker.lewis941@example.com,2023-06-05,Bronze,70,San Francisco,CA,True
+942,Sawyer Perez,sawyer.perez942@contoso.com,2023-03-12,Bronze,227,Austin,TX,True
+943,Logan Thomas,logan.thomas943@example.com,2023-03-14,Silver,445,Phoenix,AZ,True
+944,Jess Garcia,jess.garcia944@adventure-works.org,2023-10-03,Bronze,30,Covington,LA,True
+945,Logan Martin,logan.martin945@contoso.com,2024-02-25,Bronze,105,New York,NY,True
+946,Terry White,terry.white946@adventure-works.org,2024-01-14,Bronze,121,Covington,LA,True
+947,Kai Wilson,kai.wilson947@contoso.com,2024-07-30,Bronze,69,Covington,LA,False
+948,Taylor Ramirez,taylor.ramirez948@contoso.com,2024-01-21,Bronze,42,Seattle,WA,True
+949,Jordan Anderson,jordan.anderson949@fabrikam.net,2023-01-23,Gold,2371,Phoenix,AZ,True
+950,Jamie Gonzalez,jamie.gonzalez950@adventure-works.org,2024-02-21,Silver,1060,San Francisco,CA,False
+951,Morgan Thompson,morgan.thompson951@sample.io,2023-03-01,Bronze,158,Atlanta,GA,True
+952,Kai Wilson,kai.wilson952@sample.io,2025-07-11,Gold,1774,Denver,CO,True
+953,Elliot Rodriguez,elliot.rodriguez953@example.com,2023-09-11,Gold,1072,New York,NY,True
+954,Skyler Brown,skyler.brown954@adventure-works.org,2024-06-01,Bronze,0,Atlanta,GA,False
+955,Reese Wilson,reese.wilson955@sample.io,2025-07-08,Silver,426,Atlanta,GA,True
+956,Sawyer Hernandez,sawyer.hernandez956@sample.io,2023-09-11,Bronze,321,San Francisco,CA,True
+957,Sam Harris,sam.harris957@adventure-works.org,2025-11-04,Silver,408,Austin,TX,True
+958,Sam Clark,sam.clark958@fabrikam.net,2022-12-17,Gold,2447,New York,NY,False
+959,Parker Robinson,parker.robinson959@adventure-works.org,2023-01-08,Bronze,77,Covington,LA,True
+960,Shawn Martinez,shawn.martinez960@fabrikam.net,2024-02-29,Gold,2638,San Francisco,CA,False
+961,Chris Miller,chris.miller961@fabrikam.net,2024-05-04,Silver,583,New York,NY,True
+962,Morgan Jones,morgan.jones962@sample.io,2024-07-28,Silver,1006,Covington,LA,True
+963,Reese Moore,reese.moore963@fabrikam.net,2025-09-28,Bronze,146,San Francisco,CA,False
+964,Drew Perez,drew.perez964@adventure-works.org,2025-09-17,Platinum,6361,Austin,TX,True
+965,Alex Johnson,alex.johnson965@example.com,2024-04-11,Gold,3163,Atlanta,GA,True
+966,Sam Lewis,sam.lewis966@example.com,2025-02-28,Bronze,90,San Francisco,CA,True
+967,Rowan Robinson,rowan.robinson967@example.com,2023-01-02,Bronze,205,Miami,FL,True
+968,Terry Hernandez,terry.hernandez968@contoso.com,2023-10-06,Gold,2108,Phoenix,AZ,True
+969,Parker Miller,parker.miller969@sample.io,2024-12-19,Bronze,134,Seattle,WA,False
+970,Jordan Thomas,jordan.thomas970@adventure-works.org,2025-04-25,Bronze,251,Atlanta,GA,True
+971,Sam Davis,sam.davis971@contoso.com,2023-11-30,Bronze,92,Austin,TX,True
+972,Erin Martin,erin.martin972@example.com,2024-08-09,Bronze,213,Covington,LA,True
+973,Chris Thompson,chris.thompson973@contoso.com,2022-12-13,Gold,2996,Seattle,WA,False
+974,Logan Robinson,logan.robinson974@contoso.com,2025-06-11,Gold,1881,New York,NY,True
+975,Elliot Miller,elliot.miller975@sample.io,2024-03-03,Gold,2585,Denver,CO,True
+976,Jess Williams,jess.williams976@fabrikam.net,2023-08-20,Gold,1687,Denver,CO,True
+977,Parker Lewis,parker.lewis977@example.com,2024-06-26,Bronze,68,Austin,TX,False
+978,Lee Hernandez,lee.hernandez978@fabrikam.net,2025-08-28,Silver,926,Covington,LA,True
+979,Quinn Sanchez,quinn.sanchez979@sample.io,2023-09-14,Bronze,105,Covington,LA,True
+980,Cameron Taylor,cameron.taylor980@sample.io,2023-08-25,Silver,969,Phoenix,AZ,True
+981,Reese Ramirez,reese.ramirez981@sample.io,2024-12-22,Silver,849,New York,NY,True
+982,Parker Lopez,parker.lopez982@sample.io,2023-11-01,Gold,1229,San Francisco,CA,False
+983,Cameron Smith,cameron.smith983@example.com,2024-08-31,Gold,3024,Miami,FL,True
+984,Riley Johnson,riley.johnson984@fabrikam.net,2023-07-18,Silver,567,Phoenix,AZ,True
+985,Kai Garcia,kai.garcia985@adventure-works.org,2025-11-14,Silver,0,Seattle,WA,True
+986,Sam Thomas,sam.thomas986@example.com,2024-10-22,Bronze,239,Chicago,IL,False
+987,Terry Rodriguez,terry.rodriguez987@contoso.com,2023-10-22,Bronze,233,Denver,CO,False
+988,Elliot White,elliot.white988@sample.io,2024-12-08,Bronze,43,San Francisco,CA,True
+989,Elliot Rodriguez,elliot.rodriguez989@sample.io,2023-06-03,Gold,1670,Phoenix,AZ,True
+990,Alex Thomas,alex.thomas990@sample.io,2023-09-20,Silver,932,Atlanta,GA,True
+991,Pat Wilson,pat.wilson991@adventure-works.org,2025-07-16,Bronze,233,New York,NY,True
+992,Kai Martin,kai.martin992@adventure-works.org,2025-12-02,Bronze,182,Covington,LA,True
+993,Elliot Gonzalez,elliot.gonzalez993@contoso.com,2025-09-19,Silver,577,Austin,TX,False
+994,Erin Anderson,erin.anderson994@sample.io,2024-03-03,Silver,954,Seattle,WA,True
+995,Drew Brown,drew.brown995@contoso.com,2025-03-26,Bronze,230,Covington,LA,True
+996,Parker Martinez,parker.martinez996@contoso.com,2024-06-20,Bronze,136,Phoenix,AZ,True
+997,Riley Hernandez,riley.hernandez997@fabrikam.net,2023-06-25,Bronze,192,Austin,TX,True
+998,Drew Garcia,drew.garcia998@fabrikam.net,2025-04-19,Platinum,6871,San Francisco,CA,False
+999,Jordan Anderson,jordan.anderson999@contoso.com,2023-03-25,Bronze,271,Miami,FL,True
+1000,Kai Williams,kai.williams1000@sample.io,2024-12-08,Gold,3328,New York,NY,True
